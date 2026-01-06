@@ -71,10 +71,10 @@ export const VOCABULARY: Unit[] = [
 			{ term: "brutality", definition: "残暴；野蛮" },
 			{ term: "exemplary", definition: "模范的；杰出的" },
 			{ term: "confront", definition: "直面；对抗" },
-			{ term: "set off", definition: "出发；动身" },
+			{ term: "set (off)", definition: "出发；动身" },
 			{ term: "embark", definition: "着手；从事；启程" },
 			{ term: "share", definition: "共同承担；分享" },
-			{ term: "in charge", definition: "负责；主管" },
+			{ term: "(in) charge", definition: "负责；主管" },
 		],
 	},
 	{
