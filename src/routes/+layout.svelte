@@ -11,6 +11,8 @@
         mastered: studyStore.mastered,
         currentUnitId: studyStore.currentUnitId,
         currentType: studyStore.currentType,
+        examHistory: studyStore.examHistory,
+        wrongQuestions: studyStore.wrongQuestions,
       }
       localStorage.setItem('voc_progress', JSON.stringify(data))
     }

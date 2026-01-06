@@ -1,21 +1,25 @@
-import { browser } from '$app/environment';
+import { browser } from "$app/environment";
 
 class StudyStore {
 	mastered = $state<Record<string, boolean>>({});
-	currentUnitId = $state('unit1');
-	currentType = $state<'quiz' | 'test'>('quiz');
+	currentUnitId = $state("unit1");
+	currentType = $state<"quiz" | "test">("quiz");
+	examHistory = $state<{ date: number; score: number; total: number }[]>([]);
+	wrongQuestions = $state<string[]>([]);
 
 	constructor() {
 		if (browser) {
-			const stored = localStorage.getItem('voc_progress');
+			const stored = localStorage.getItem("voc_progress");
 			if (stored) {
 				try {
 					const parsed = JSON.parse(stored);
 					this.mastered = parsed.mastered || {};
-					this.currentUnitId = parsed.currentUnitId || 'unit1';
-					this.currentType = parsed.currentType || 'quiz';
+					this.currentUnitId = parsed.currentUnitId || "unit1";
+					this.currentType = parsed.currentType || "quiz";
+					this.examHistory = parsed.examHistory || [];
+					this.wrongQuestions = parsed.wrongQuestions || [];
 				} catch (e) {
-					console.error('Failed to load progress', e);
+					console.error("Failed to load progress", e);
 				}
 			}
 		}
@@ -47,7 +51,27 @@ class StudyStore {
 				count++;
 			}
 		}
-		return { count, percentage: total === 0 ? 0 : Math.round((count / total) * 100) };
+		return {
+			count,
+			percentage: total === 0 ? 0 : Math.round((count / total) * 100),
+		};
+	}
+
+	addExamResult(score: number, total: number) {
+		this.examHistory = [
+			...this.examHistory,
+			{ date: Date.now(), score, total },
+		];
+	}
+
+	addWrongQuestion(questionId: string) {
+		if (!this.wrongQuestions.includes(questionId)) {
+			this.wrongQuestions = [...this.wrongQuestions, questionId];
+		}
+	}
+
+	removeWrongQuestion(questionId: string) {
+		this.wrongQuestions = this.wrongQuestions.filter((id) => id !== questionId);
 	}
 }
 

@@ -13,9 +13,13 @@
     ChevronRight,
     Volume2,
     VolumeX,
+    LayoutGrid,
+    Flag,
+    RotateCcw,
   } from 'lucide-svelte'
   import { fade } from 'svelte/transition'
   import { onMount } from 'svelte'
+  import confetti from 'canvas-confetti'
 
   // Flatten all vocabulary into a single list
   const ALL_WORDS = VOCABULARY.flatMap((unit) => [
@@ -35,6 +39,9 @@
   let wrongCount = $state(0)
   let isFinished = $state(false)
   let isStarted = $state(false)
+  let showOverview = $state(false)
+  let sessionMode = $state<'normal' | 'retry'>('normal')
+  let wrongWords = $state<(Word & { source: string })[]>([])
 
   // Current Question State
   let currentWord = $derived(sessionWords[currentIndex])
@@ -137,6 +144,21 @@
     wrongCount = 0
     isFinished = false
     isStarted = true
+    sessionMode = 'normal'
+    loadQuestion()
+  }
+
+  function startRetry() {
+    sessionWords = [...wrongWords]
+    wrongWords = []
+
+    sessionMode = 'retry'
+    history = {}
+    currentIndex = 0
+    correctCount = 0
+    wrongCount = 0
+    isFinished = false
+    isStarted = true
     loadQuestion()
   }
 
@@ -144,8 +166,8 @@
     if (currentIndex < sessionWords.length - 1) {
       currentIndex++
       loadQuestion()
-    } else if (isAnswered && options[selectedOptionIndex!].isCorrect) {
-      isFinished = true
+    } else {
+      finishSession()
     }
   }
 
@@ -179,6 +201,29 @@
 
   function restart() {
     isStarted = false
+  }
+
+  function finishSession() {
+    // Calculate wrong words
+    const wrong: (Word & { source: string })[] = []
+    sessionWords.forEach((word, i) => {
+      const h = history[i]
+      if (!h || !h.isAnswered || !h.options[h.selectedOptionIndex!].isCorrect) {
+        wrong.push(word)
+      }
+    })
+    wrongWords = wrong
+
+    if (wrong.length === 0 && sessionWords.length > 0) {
+      confetti({
+        particleCount: 150,
+        spread: 60,
+        origin: { y: 0.6 },
+      })
+    }
+
+    isFinished = true
+    showOverview = false
   }
 
   // Keyboard support
@@ -232,6 +277,14 @@
           {:else}
             <VolumeX class="w-5 h-5" />
           {/if}
+        </button>
+        <div class="w-px h-4 bg-gray-200"></div>
+        <button
+          onclick={() => (showOverview = !showOverview)}
+          class="text-gray-500 hover:text-blue-600 transition-colors p-1"
+          title="Overview"
+        >
+          <LayoutGrid class="w-5 h-5" />
         </button>
         <div class="w-px h-4 bg-gray-200"></div>
         <div class="text-green-600 flex items-center gap-1">
@@ -336,8 +389,52 @@
     </div>
 
     <div
-      class="flex-1 flex flex-col items-center justify-center p-4 w-full max-w-lg mx-auto"
+      class="flex-1 flex flex-col items-center justify-center p-4 w-full max-w-lg mx-auto relative"
     >
+      {#if showOverview}
+        <div
+          class="absolute inset-0 bg-gray-50 z-20 p-4 overflow-y-auto rounded-xl"
+          transition:fade={{ duration: 200 }}
+        >
+          <h2 class="text-xl font-bold text-gray-800 mb-4">Session Overview</h2>
+          <div class="grid grid-cols-5 gap-3 mb-8">
+            {#each sessionWords as _, i}
+              {@const status = history[i]}
+              {@const isCurrent = i === currentIndex}
+              {@const isCorrect =
+                status?.isAnswered &&
+                status.options[status.selectedOptionIndex!].isCorrect}
+              {@const isWrong =
+                status?.isAnswered &&
+                !status.options[status.selectedOptionIndex!].isCorrect}
+              <button
+                onclick={() => {
+                  currentIndex = i
+                  loadQuestion()
+                  showOverview = false
+                }}
+                class="aspect-square rounded-lg font-medium text-sm flex items-center justify-center transition-all border-2
+                  {isCurrent ? 'ring-2 ring-blue-400 ring-offset-2' : ''}
+                  {isCorrect
+                  ? 'bg-green-100 border-green-200 text-green-700'
+                  : isWrong
+                    ? 'bg-red-100 border-red-200 text-red-700'
+                    : 'bg-white border-gray-200 text-gray-500'}"
+              >
+                {i + 1}
+              </button>
+            {/each}
+          </div>
+          <button
+            onclick={finishSession}
+            class="w-full bg-blue-600 text-white font-bold py-4 rounded-xl shadow-lg shadow-blue-200 hover:bg-blue-700 active:scale-[0.98] transition-all flex items-center justify-center gap-2"
+          >
+            <Flag class="w-5 h-5" />
+            Finish Session
+          </button>
+        </div>
+      {/if}
+
       <div class="w-full flex-1 flex flex-col justify-center max-h-[80vh]">
         <!-- Question Card -->
         <button
@@ -422,8 +519,7 @@
 
         <button
           onclick={next}
-          disabled={currentIndex === sessionWords.length - 1 &&
-            (!isAnswered || !options[selectedOptionIndex ?? -1]?.isCorrect)}
+          disabled={currentIndex === sessionWords.length - 1 && !isAnswered}
           class="p-3 rounded-xl bg-white border border-gray-200 text-gray-600 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-gray-50 transition-colors"
         >
           <ChevronRight class="w-5 h-5" />
@@ -466,6 +562,16 @@
           </div>
         </div>
 
+        {#if wrongWords.length > 0}
+          <button
+            onclick={startRetry}
+            class="w-full mb-6 py-3 px-4 rounded-xl bg-orange-500 text-white font-bold hover:bg-orange-600 transition-colors shadow-lg shadow-orange-200 flex items-center justify-center gap-2"
+          >
+            <RotateCcw class="w-4 h-4" />
+            Retry {wrongWords.length} Mistakes
+          </button>
+        {/if}
+
         <div class="text-sm text-gray-400 mb-8">
           Accuracy: {Math.round((correctCount / sessionWords.length) * 100)}%
         </div>
@@ -482,7 +588,7 @@
             class="flex-1 py-3 px-4 rounded-xl bg-purple-600 text-white font-semibold hover:bg-purple-700 transition-colors flex items-center justify-center gap-2"
           >
             <RefreshCw class="w-4 h-4" />
-            New Session
+            {sessionMode === 'retry' ? 'New Challenge' : 'New Session'}
           </button>
         </div>
       </div>
