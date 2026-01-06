@@ -88,7 +88,7 @@ export const VOCABULARY: Unit[] = [
 			{ term: "corporate", definition: "全体的；集体的；公司的" },
 			{ term: "versus", definition: "与……相对；与……相比" },
 			{ term: "compulsory", definition: "强制性的；必修的" },
-			{ term: "mingle", definition: "交融；混入；参与（社交）" },
+			{ term: "loosen", definition: "放松；松开" },
 			{ term: "solve", definition: "解决" },
 			{ term: "be open to", definition: "乐于接受；对……持开放态度" },
 		],
