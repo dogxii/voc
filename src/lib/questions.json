@@ -1,2102 +1,2102 @@
 [
-  {
-    "id": "u1_quiz_1",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "executive",
-    "options": {
-      "A": "（机构或公司的）主管，经理",
-      "B": "同事；（生意）伙伴",
-      "C": "（艺术、音乐、电影等的）评论家，批评家",
-      "D": "坚定的支持者；铁杆拥护者"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_quiz_2",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "plunge",
-    "options": {
-      "A": "（以···）代替，取代",
-      "B": "（使）突然向前冲；（使）跌落",
-      "C": "（尤指在科学或艺术方面）合作，协作",
-      "D": "（使）变化；（使）改变"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u1_quiz_3",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "adequacy",
-    "options": {
-      "A": "习俗；惯例；常规",
-      "B": "买卖；贸易；商务；商业",
-      "C": "充分；足够",
-      "D": "评价；评定"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_quiz_4",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "Jane decided to _______ herself in learning e-commerce by spending evenings reading books.",
-    "options": {
-      "A": "endure",
-      "B": "immerse",
-      "C": "neglect",
-      "D": "tolerate"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u1_quiz_5",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "This _______ advertisement misleadingly suggested that the product used advanced digital technology with exceptional benefits that, in reality, were nonexistent.",
-    "options": {
-      "A": "genuine",
-      "B": "deceptive",
-      "C": "authentic",
-      "D": "transparent"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u1_quiz_6",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "The implementation of the new software resulted in a significant _______ of data processing, improving the overall efficiency of the system.",
-    "options": {
-      "A": "collaboration",
-      "B": "limitation",
-      "C": "acceleration",
-      "D": "information"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_quiz_7",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "The scientists reorganized the laboratory to <strong>make room for</strong> new equipment.",
-    "options": {
-      "A": "make up for",
-      "B": "make use of",
-      "C": "provide space for",
-      "D": "provide support to"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_quiz_8",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "Researchers often need to <strong>collaborate</strong> on complex projects to draw on diverse expertise and achieve breakthroughs.",
-    "options": {
-      "A": "work together",
-      "B": "brainstorm individually",
-      "C": "explore positively",
-      "D": "develop closely"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_quiz_9",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "In response to the old software, the company decided to find a viable <strong>substitute</strong> that could seamlessly replace the outdated system.",
-    "options": {
-      "A": "initiative",
-      "B": "objective",
-      "C": "alternative",
-      "D": "executive"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_quiz_10",
-    "unitId": "unit1",
-    "section": "quiz",
-    "question": "In the era of virtual meetings and collaborative tools, professionals often utilize online platforms to <strong>converse</strong> with their peers.",
-    "options": {
-      "A": "integrate",
-      "B": "cope",
-      "C": "interact",
-      "D": "align"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_test_1",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "As an experienced teacher, she was able to accurately ________ her students’ strengths and weaknesses in a matter of minutes.",
-    "options": {
-      "A": "alter",
-      "B": "adapt",
-      "C": "assess",
-      "D": "admire"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_test_2",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "It’s ________ that after working so hard to achieve success and financial stability, he ended up feeling unfulfilled and unhappy with his life.",
-    "options": {
-      "A": "strategic",
-      "B": "plastic",
-      "C": "ironic",
-      "D": "economic"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_test_3",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "Many people _______ the digital age with the rapid spread of information and the ability to connect with others from anywhere in the world instantly.",
-    "options": {
-      "A": "associate",
-      "B": "educate",
-      "C": "immerse",
-      "D": "operate"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_test_4",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "After much consideration, I have decided to ________ into the challenging task of writing a novel.",
-    "options": {
-      "A": "translate",
-      "B": "develop",
-      "C": "evolve",
-      "D": "plunge"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u1_test_5",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "The final bill ________ $500, much more than what we had anticipated.",
-    "options": {
-      "A": "lived up to",
-      "B": "looked up to",
-      "C": "kept up to",
-      "D": "added up to"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u1_test_6",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "Due to our tight budget, we had to ________ chicken for beef in our dish.",
-    "options": {
-      "A": "submit",
-      "B": "substitute",
-      "C": "submitting",
-      "D": "substituting"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u1_test_7",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "Her ________ nature allowed her to notice the subtle changes in the financial market, giving her an edge in making investment decisions.",
-    "options": {
-      "A": "observant",
-      "B": "significant",
-      "C": "giant",
-      "D": "elegant"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_test_8",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "She found it difficult to believe that her husband ________ forgot their wedding anniversary.",
-    "options": {
-      "A": "fortunately",
-      "B": "luckily",
-      "C": "literally",
-      "D": "carefully"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_test_9",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "He prefers ________ trips over international travels as they allow him to explore his country’s beauty.",
-    "options": {
-      "A": "foreign",
-      "B": "domestic",
-      "C": "economic",
-      "D": "fantastic"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u1_test_10",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "We communicated ________ email before finally meeting in person.",
-    "options": {
-      "A": "via",
-      "B": "among",
-      "C": "to",
-      "D": "along"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_test_11",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "Being the eldest child in a busy household where both parents work long hours, she often carries the ________ of taking care of her younger siblings.",
-    "options": {
-      "A": "burden",
-      "B": "joy",
-      "C": "annoyance",
-      "D": "privilege"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_test_12",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "Our team has been working on a learning platform that caters to active participation and allows real-time communication between students all over the world, making it truly ________.",
-    "options": {
-      "A": "negative",
-      "B": "reactive",
-      "C": "interactive",
-      "D": "sensitive"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u1_test_13",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "Despite its ________, the new technology faced criticism from experts.",
-    "options": {
-      "A": "deception",
-      "B": "practicality",
-      "C": "practical",
-      "D": "deceptive"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u1_test_14",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "The real estate market is always unpredictable, but one thing is ________ certain – location is everything.",
-    "options": {
-      "A": "invariably",
-      "B": "individually",
-      "C": "reliably",
-      "D": "regularly"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u1_test_15",
-    "unitId": "unit1",
-    "section": "test",
-    "question": "In order to pass the class, you must ________ all spelling and grammar errors from your final essay submission.",
-    "options": {
-      "A": "endure",
-      "B": "erase",
-      "C": "expand",
-      "D": "explore"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_quiz_1",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "watertight",
-    "options": {
-      "A": "透气的；可呼吸的；通透的",
-      "B": "干的；干燥的；缺水的",
-      "C": "微湿的；湿润的；水充足的",
-      "D": "不透水的；防水的；水密的"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u2_quiz_2",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "fleet",
-    "options": {
-      "A": "船队；舰队",
-      "B": "礁；暗礁",
-      "C": "卫兵；警卫",
-      "D": "海上劳作；航海"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u2_quiz_3",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "descendant",
-    "options": {
-      "A": "亲友；亲属",
-      "B": "后代；后裔",
-      "C": "家庭；家族",
-      "D": "祖宗；祖先"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_quiz_4",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "指南针；罗盘",
-    "options": {
-      "A": "company",
-      "B": "compare",
-      "C": "compete",
-      "D": "compass"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u2_quiz_5",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "强有力的；强大的；巨大的；雄伟的",
-    "options": {
-      "A": "beauty",
-      "B": "quality",
-      "C": "mighty",
-      "D": "pretty"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u2_quiz_6",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "船舶的；航海的",
-    "options": {
-      "A": "vast",
-      "B": "naval",
-      "C": "vague",
-      "D": "natural"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_quiz_7",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "The mini-airplane on his desk serves as a _______ of his big dreams of travel.",
-    "options": {
-      "A": "symbol",
-      "B": "simple",
-      "C": "sample",
-      "D": "staple"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u2_quiz_8",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "Through Zheng He’s _______ efforts, the Ming Dynasty established peaceful trading relations with many nations along the expedition routes.",
-    "options": {
-      "A": "direct",
-      "B": "disabled",
-      "C": "distant",
-      "D": "diplomatic"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u2_quiz_9",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "No changes can _______ without the manager’s approval.",
-    "options": {
-      "A": "take up",
-      "B": "take place",
-      "C": "take over",
-      "D": "take away"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_quiz_10",
-    "unitId": "unit2",
-    "section": "quiz",
-    "question": "Appointed by the _______ court, Zheng He led one of the most impressive expeditions in history to demonstrate the Ming Dynasty’s power and strength.",
-    "options": {
-      "A": "loyal",
-      "B": "signal",
-      "C": "royal",
-      "D": "local"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u2_test_1",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "To better manage its online presence, the company decided to ________ a social media specialist as the new brand ambassador.",
-    "options": {
-      "A": "appreciate",
-      "B": "appear",
-      "C": "appoint",
-      "D": "appeal"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u2_test_2",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "The rapid ________ of the city has made the construction of new roads and infrastructure necessary.",
-    "options": {
-      "A": "expansion",
-      "B": "expression",
-      "C": "fantasy",
-      "D": "festival"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u2_test_3",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "A meaningful life is like a puzzle, each piece a ________ that fits together to create a beautiful picture.",
-    "options": {
-      "A": "symbol",
-      "B": "bonus",
-      "C": "series",
-      "D": "junk"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u2_test_4",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "She decided to ________ the necklace that had been passed down through generations, as it held memories of her family.",
-    "options": {
-      "A": "abolish",
-      "B": "spoil",
-      "C": "steal",
-      "D": "cherish"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u2_test_5",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "Reading about Audrey Hepburn’s life, she learned the importance of being ________ and understanding to all people.",
-    "options": {
-      "A": "envious",
-      "B": "gracious",
-      "C": "miraculous",
-      "D": "nervous"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_test_6",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "He used to have only a ________ idea about what to do with his life, but the biography of Mother Teresa inspired him to volunteer and help those in need around the world.",
-    "options": {
-      "A": "clear",
-      "B": "future",
-      "C": "generous",
-      "D": "vague"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u2_test_7",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "Dialogue and negotiation are essential tools for the ________ of international peace.",
-    "options": {
-      "A": "maintenance",
-      "B": "domain",
-      "C": "government",
-      "D": "navigation"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u2_test_8",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "She felt ________ of hope in the face of poverty, yet she tirelessly sought out opportunities for her children’s education.",
-    "options": {
-      "A": "failed",
-      "B": "grasped",
-      "C": "deprived",
-      "D": "provided"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u2_test_9",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "The history books recounted how people in the village tried to shield the children from the ________ of the war.",
-    "options": {
-      "A": "complexity",
-      "B": "brutality",
-      "C": "fragility",
-      "D": "majesty"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_test_10",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "He was recognized with a scholarship for his ________ performance in the world robotics competition.",
-    "options": {
-      "A": "exemplary",
-      "B": "beneficiary",
-      "C": "watertight",
-      "D": "misery"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u2_test_11",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "The biographies of world-renowned scientists give him the courage to ________ difficulties and failures in life.",
-    "options": {
-      "A": "alleviate",
-      "B": "confront",
-      "C": "divorce",
-      "D": "signify"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_test_12",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "With the map in hand and a full tank of gas, she ________ off to the quiet little town where her grandparents had grown up.",
-    "options": {
-      "A": "wrote",
-      "B": "showed",
-      "C": "paid",
-      "D": "set"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u2_test_13",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "She decided to ________ on a career change, leaving finance to pursue her passion for art.",
-    "options": {
-      "A": "put",
-      "B": "depend",
-      "C": "embark",
-      "D": "wait"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u2_test_14",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "As a community, we should all ________ in the responsibility of preserving our local heritage.",
-    "options": {
-      "A": "browse",
-      "B": "share",
-      "C": "decline",
-      "D": "wander"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u2_test_15",
-    "unitId": "unit2",
-    "section": "test",
-    "question": "In her new role, Janet is in ________ of managing the company’s intricate customer relations network.",
-    "options": {
-      "A": "charge",
-      "B": "danger",
-      "C": "search",
-      "D": "memory"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u3_quiz_1",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "diversity",
-    "options": {
-      "A": "（人或事物的）多样性，多元化",
-      "B": "（情形或某人性格的）某一方面",
-      "C": "（尤指疼痛或烦恼时的）呻吟，哼哼声",
-      "D": "（大脑的）半球"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_quiz_2",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "jet lag",
-    "options": {
-      "A": "愿意考虑",
-      "B": "时差反应",
-      "C": "与世隔绝",
-      "D": "模棱两可"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_quiz_3",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "infinite",
-    "options": {
-      "A": "观察力敏锐的，机警的",
-      "B": "固执的，倔强的",
-      "C": "坚决的，果断的",
-      "D": "无限的，无穷无尽的"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u3_quiz_4",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "廉价出售",
-    "options": {
-      "A": "after sale",
-      "B": "on sale",
-      "C": "quick sale",
-      "D": "retail sale"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_quiz_5",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "全体的；集体的",
-    "options": {
-      "A": "private",
-      "B": "finite",
-      "C": "stubborn",
-      "D": "corporate"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u3_quiz_6",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "与···相对，与···相比",
-    "options": {
-      "A": "verse",
-      "B": "versus",
-      "C": "diverse",
-      "D": "vertical"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_quiz_7",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "As part of the cybersecurity protocol, it is _______ for all employees to undergo regular training sessions to enhance their understanding of potential online threats.",
-    "options": {
-      "A": "compulsory",
-      "B": "burdensome",
-      "C": "pointless",
-      "D": "naive"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_quiz_8",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "To truly experience the local festival, you have to _______ your schedule and give in to the festive tide that surrounds you.",
-    "options": {
-      "A": "endow",
-      "B": "mingle",
-      "C": "loosen",
-      "D": "contemplate"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_quiz_9",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "The team of engineers worked tirelessly to ________ the complex coding issues.",
-    "options": {
-      "A": "solve",
-      "B": "offset",
-      "C": "applaud",
-      "D": "include"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_quiz_10",
-    "unitId": "unit3",
-    "section": "quiz",
-    "question": "We encourage our employees to _______ new technologies and methodologies, fostering innovation and staying at the forefront of industry advancements.",
-    "options": {
-      "A": "be easier said than done",
-      "B": "be open to",
-      "C": "be quite sure",
-      "D": "be just fine"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_test_1",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "The ________ presentation was met with much success and praise from industry professionals.",
-    "options": {
-      "A": "corporate",
-      "B": "burdensome",
-      "C": "terminal",
-      "D": "cognitive"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_test_2",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "She hoped that the therapy sessions would ________ her restrictive ways of thinking.",
-    "options": {
-      "A": "validate",
-      "B": "confirm",
-      "C": "reinforce",
-      "D": "loosen"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u3_test_3",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "As a team, we worked together to ________ the complex problem at hand.",
-    "options": {
-      "A": "leap",
-      "B": "solve",
-      "C": "denote",
-      "D": "endow"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_test_4",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "Despite the ________ possibilities of the universe, he found the greatest joy in the simple moments spent with his family.",
-    "options": {
-      "A": "infinite",
-      "B": "limited",
-      "C": "constrained",
-      "D": "susceptible"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_test_5",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "With the rise of social media, businesses have been able to ________ their reach like never before.",
-    "options": {
-      "A": "recognize",
-      "B": "standardize",
-      "C": "customize",
-      "D": "globalize"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u3_test_6",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "In the discussion, the teacher remained ________, avoiding taking sides and ensuring a fair evaluation of different perspectives presented by the students.",
-    "options": {
-      "A": "enthusiastic",
-      "B": "ambiguous",
-      "C": "neutral",
-      "D": "subjective"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u3_test_7",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "The company values ________ and actively strives toward creating an inclusive work environment.",
-    "options": {
-      "A": "reality",
-      "B": "authority",
-      "C": "intensity",
-      "D": "diversity"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u3_test_8",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "The city prides itself on its ________ diversity, with residents from all corners of the globe.",
-    "options": {
-      "A": "ethnic",
-      "B": "economic",
-      "C": "dramatic",
-      "D": "classic"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_test_9",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "After months of ________, she realized the importance of human connection and interaction.",
-    "options": {
-      "A": "celebration",
-      "B": "isolation",
-      "C": "expression",
-      "D": "innovation"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_test_10",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "We were given ________ time to complete the project, ensuring a thorough and well-thought-out solution.",
-    "options": {
-      "A": "precise",
-      "B": "ample",
-      "C": "reckless",
-      "D": "neutral"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u3_test_11",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "His ________ and attention to detail served him well in his career as a surgeon.",
-    "options": {
-      "A": "caution",
-      "B": "reservation",
-      "C": "celebration",
-      "D": "application"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_test_12",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "The new software program ________ the user with capabilities beyond what was previously possible.",
-    "options": {
-      "A": "endows",
-      "B": "collaborates",
-      "C": "copes",
-      "D": "interacts"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_test_13",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "________, she prefers to spend her weekends exploring local parks and nature reserves.",
-    "options": {
-      "A": "As far as possible",
-      "B": "In the blink of an eye",
-      "C": "More often than not",
-      "D": "In addition to this"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u3_test_14",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "It’s important to ________ from work to recharge and maintain a healthy work-life balance.",
-    "options": {
-      "A": "take time off",
-      "B": "take it easy",
-      "C": "take a chance",
-      "D": "take action"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u3_test_15",
-    "unitId": "unit3",
-    "section": "test",
-    "question": "Studying abroad offers a unique opportunity to ________ to new cultures and perspectives.",
-    "options": {
-      "A": "speak one’s mind",
-      "B": "bear in mind",
-      "C": "open one’s mind",
-      "D": "make up one’s mind"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u4_quiz_1",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "grind",
-    "options": {
-      "A": "令人开心的事",
-      "B": "没有价值的事",
-      "C": "私事",
-      "D": "苦差事"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u4_quiz_2",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "livelihood",
-    "options": {
-      "A": "生计",
-      "B": "生态",
-      "C": "生命",
-      "D": "生物"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u4_quiz_3",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "diligence",
-    "options": {
-      "A": "艰难；贫困；困苦",
-      "B": "义务；责任；职责",
-      "C": "勤勉；勤奋；用功",
-      "D": "照顾；照料；护理"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u4_quiz_4",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "完全相反；正好相反",
-    "options": {
-      "A": "poll",
-      "B": "pull",
-      "C": "polar",
-      "D": "pure"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u4_quiz_5",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "（感情、思想、精力的）发泄出路，表现机会",
-    "options": {
-      "A": "outline",
-      "B": "outlet",
-      "C": "outlook",
-      "D": "outside"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u4_quiz_6",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "流言蜚语；闲言碎语；传闻",
-    "options": {
-      "A": "legend",
-      "B": "event",
-      "C": "story",
-      "D": "gossip"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u4_quiz_7",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "Her active _______ of work-life balance has significantly improved her overall health and job performance.",
-    "options": {
-      "A": "pursuit",
-      "B": "denial",
-      "C": "dream",
-      "D": "passion"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u4_quiz_8",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "By _______ our data analysis, we have significantly increased productivity and gained valuable insights into the market.",
-    "options": {
-      "A": "abolishing",
-      "B": "upcoming",
-      "C": "automating",
-      "D": "refraining"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u4_quiz_9",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "The new employee had to quickly _______ to the office culture to integrate with the team and work effectively.",
-    "options": {
-      "A": "contact",
-      "B": "control",
-      "C": "confirm",
-      "D": "conform"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u4_quiz_10",
-    "unitId": "unit4",
-    "section": "quiz",
-    "question": "There are several urgent tasks _______ that need your immediate attention.",
-    "options": {
-      "A": "by hand",
-      "B": "at hand",
-      "C": "on one hand",
-      "D": "out of hand"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u4_test_1",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "The local theater group offers young people a(n) ________ to express themselves.",
-    "options": {
-      "A": "sin",
-      "B": "void",
-      "C": "anchor",
-      "D": "outlet"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u4_test_2",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "Workers in this company receive a higher wage for ________ tasks that require precision and skill.",
-    "options": {
-      "A": "moral",
-      "B": "manual",
-      "C": "motive",
-      "D": "mutual"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u4_test_3",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "The new project was completed ahead of schedule, thanks to the team’s ________ and hard work.",
-    "options": {
-      "A": "diligence",
-      "B": "livelihood",
-      "C": "diversion",
-      "D": "gossip"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u4_test_4",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "We need to ________ the roof before the rainy season starts to avoid any leaks.",
-    "options": {
-      "A": "guard",
-      "B": "ponder",
-      "C": "patch",
-      "D": "ensure"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u4_test_5",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "________ safety checks are carried out on the factory’s machines every three months to prevent any potential danger.",
-    "options": {
-      "A": "Infectious",
-      "B": "Periodic",
-      "C": "Obvious",
-      "D": "Stable"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u4_test_6",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "To avoid contamination, researchers in the lab must ________ from touching any surfaces without gloves.",
-    "options": {
-      "A": "review",
-      "B": "refrain",
-      "C": "revise",
-      "D": "rescue"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u4_test_7",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "My job in the company is to ________ the marketing campaigns and assess their impact on sales.",
-    "options": {
-      "A": "overcome",
-      "B": "overuse",
-      "C": "overlook",
-      "D": "oversee"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u4_test_8",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "The CEO announced a zero-tolerance policy that aims to ________ discrimination against women within the company.",
-    "options": {
-      "A": "abolish",
-      "B": "automate",
-      "C": "accelerate",
-      "D": "accuse"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u4_test_9",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "The bravery of the young child facing her illness with a smile ________ everyone’s heart.",
-    "options": {
-      "A": "endeavored",
-      "B": "punched",
-      "C": "pierced",
-      "D": "gauged"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u4_test_10",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "Online shopping is becoming increasingly ________, boosting the rural economy by enabling the sale of fresh local produce to the whole country.",
-    "options": {
-      "A": "complex",
-      "B": "communicative",
-      "C": "commonplace",
-      "D": "compulsory"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u4_test_11",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "Reading has become a cherished ________ for people looking forward to relaxing after a long day at work.",
-    "options": {
-      "A": "job",
-      "B": "pastime",
-      "C": "homework",
-      "D": "play"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u4_test_12",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "He felt it was his duty to ________ on the craftsmanship of handmade furniture that his father had mastered through years of dedicated work.",
-    "options": {
-      "A": "carry",
-      "B": "bring",
-      "C": "put",
-      "D": "back"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u4_test_13",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "I need a needle and thread to ________ up this hole in my jeans.",
-    "options": {
-      "A": "live",
-      "B": "clean",
-      "C": "beat",
-      "D": "stitch"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u4_test_14",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "Jane is ________ out samples of her homemade cookies at the farmers’ market to attract customers.",
-    "options": {
-      "A": "running",
-      "B": "speaking",
-      "C": "finding",
-      "D": "giving"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u4_test_15",
-    "unitId": "unit4",
-    "section": "test",
-    "question": "The software development team had to ________ with numerous bugs before launching.",
-    "options": {
-      "A": "confirm",
-      "B": "contend",
-      "C": "connect",
-      "D": "consider"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_quiz_1",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "rip",
-    "options": {
-      "A": "引发，激发（尤指一系列事件）",
-      "B": "（尤指通过努力）完成，实现",
-      "C": "（被）撕裂；（被）扯开",
-      "D": "（使）停止；（使）停下"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u5_quiz_2",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "boundary",
-    "options": {
-      "A": "边界；界限",
-      "B": "攀登；登上",
-      "C": "摆动；摇摆",
-      "D": "起因；诱因"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_quiz_3",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "gigantic",
-    "options": {
-      "A": "广泛的",
-      "B": "巨大的",
-      "C": "巍峨的",
-      "D": "关键的"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_quiz_4",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "码头；船坞",
-    "options": {
-      "A": "feat",
-      "B": "dock",
-      "C": "halt",
-      "D": "trigger"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_quiz_5",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "器官",
-    "options": {
-      "A": "organ",
-      "B": "blueprint",
-      "C": "force",
-      "D": "bound"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_quiz_6",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "一批；一组",
-    "options": {
-      "A": "switch",
-      "B": "sketch",
-      "C": "patch",
-      "D": "batch"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u5_quiz_7",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "The feeling of relaxation is _______ associated with spending time in nature, away from the hustle and bustle of urban life.",
-    "options": {
-      "A": "suddenly",
-      "B": "carefully",
-      "C": "normally",
-      "D": "tearfully"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u5_quiz_8",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "After years of rigorous training and preparation, the astronaut finally _______ his lifelong dream of venturing into space.",
-    "options": {
-      "A": "docked",
-      "B": "halted",
-      "C": "triggered",
-      "D": "accomplished"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_quiz_9",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "The collaboration between international space agencies is crucial _______ of advancing space exploration, allowing shared resources, knowledge, and expertise to propel humanity’s understanding of the universe.",
-    "options": {
-      "A": "for the benefit",
-      "B": "for a while",
-      "C": "for the most part",
-      "D": "for the record"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u5_quiz_10",
-    "unitId": "unit5",
-    "section": "quiz",
-    "question": "The successful launch of the new satellite _______ a wave of excitement and renewed interest in space exploration.",
-    "options": {
-      "A": "triggered off",
-      "B": "ripped through",
-      "C": "benefited from",
-      "D": "vibrated with"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_test_1",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The ________ is known for its beautiful landscapes and rich history.",
-    "options": {
-      "A": "division",
-      "B": "region",
-      "C": "segment",
-      "D": "profile"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_test_2",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "She worked hard for years to ________ her dream of becoming a doctor.",
-    "options": {
-      "A": "acquire",
-      "B": "accommodate",
-      "C": "accomplish",
-      "D": "accompany"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u5_test_3",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The team developed a strategic ________ for the company’s growth over the next five years, outlining key steps and objectives to achieve their vision.",
-    "options": {
-      "A": "blueprint",
-      "B": "draft",
-      "C": "outline",
-      "D": "model"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_test_4",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The statues in the park are ________ and tower over everything else.",
-    "options": {
-      "A": "abundant",
-      "B": "countless",
-      "C": "gigantic",
-      "D": "unforgettable"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u5_test_5",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The police officer ordered the car to ________ at the intersection.",
-    "options": {
-      "A": "grit",
-      "B": "halt",
-      "C": "dock",
-      "D": "default"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_test_6",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The loud noise from the construction project can ________ headaches for those living nearby.",
-    "options": {
-      "A": "trigger",
-      "B": "conclude",
-      "C": "halt",
-      "D": "elevate"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_test_7",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "He accidentally ________ his pants while climbing over the fence.",
-    "options": {
-      "A": "ripped",
-      "B": "equipped",
-      "C": "gripped",
-      "D": "risked"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_test_8",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The river marks the ________ between the two countries.",
-    "options": {
-      "A": "center",
-      "B": "boundary",
-      "C": "priority",
-      "D": "enemy"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_test_9",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The two companies agreed to ________ on the development of the new product.",
-    "options": {
-      "A": "consult",
-      "B": "concede",
-      "C": "cooperate",
-      "D": "condemn"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u5_test_10",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The plane ________ into the mountains during the storm.",
-    "options": {
-      "A": "soared",
-      "B": "crashed",
-      "C": "whispered",
-      "D": "marveled"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_test_11",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The power cut caused by the storm ________ the whole city.",
-    "options": {
-      "A": "encouraged",
-      "B": "stabilized",
-      "C": "discovered",
-      "D": "disrupted"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u5_test_12",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The ________ work took months before the actual event.",
-    "options": {
-      "A": "accidental",
-      "B": "ready",
-      "C": "temporary",
-      "D": "preparatory"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u5_test_13",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "I’m ________ a very punctual person, but today I was running late due to traffic.",
-    "options": {
-      "A": "normally",
-      "B": "quickly",
-      "C": "occasionally",
-      "D": "especially"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u5_test_14",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "Let’s ________ the meeting with a quick introduction of everyone.",
-    "options": {
-      "A": "kick against",
-      "B": "kick off",
-      "C": "kick out",
-      "D": "kick up"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u5_test_15",
-    "unitId": "unit5",
-    "section": "test",
-    "question": "The architect ________ the plans for the new library and presented them to the committee for approval.",
-    "options": {
-      "A": "woke up",
-      "B": "warmed up",
-      "C": "sped up",
-      "D": "drew up"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_quiz_1",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "retail",
-    "options": {
-      "A": "零售；零卖",
-      "B": "批发；大规模销售",
-      "C": "拍卖；竞卖",
-      "D": "分发；发放"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u6_quiz_2",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "deposit",
-    "options": {
-      "A": "捐赠物；捐赠",
-      "B": "基金；专款",
-      "C": "股份；股票",
-      "D": "订金；预付款"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_quiz_3",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "migrant",
-    "options": {
-      "A": "宏伟的，壮丽的",
-      "B": "移民，移居者",
-      "C": "重大，严重",
-      "D": "海外的，来自国外的"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u6_quiz_4",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "严厉的；突然的",
-    "options": {
-      "A": "chaotic",
-      "B": "romantic",
-      "C": "drastic",
-      "D": "majestic"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u6_quiz_5",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "相当大的",
-    "options": {
-      "A": "tall",
-      "B": "broad",
-      "C": "wide",
-      "D": "sizable"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_quiz_6",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "（银行等的）贷款",
-    "options": {
-      "A": "account",
-      "B": "loan",
-      "C": "fund",
-      "D": "stock"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u6_quiz_7",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "The worst of the economic recession finally _______ Jeff when he had to downsize his company.",
-    "options": {
-      "A": "caught up with",
-      "B": "caught the attention of",
-      "C": "caught a break",
-      "D": "caught a breath"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u6_quiz_8",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "An economic downturn presents an additional _______ for those who are already struggling: the increased competition for low-wage jobs.",
-    "options": {
-      "A": "fortune",
-      "B": "client",
-      "C": "bias",
-      "D": "obstacle"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_quiz_9",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "Due to the economic crisis, many potential homebuyers are hesitant to _______ a deposit _______ on a new property.",
-    "options": {
-      "A": "put … down",
-      "B": "put … up",
-      "C": "put … forward",
-      "D": "put … in"
-    },
-    "rawOptions": [],
-    "answer": null
-  },
-  {
-    "id": "u6_quiz_10",
-    "unitId": "unit6",
-    "section": "quiz",
-    "question": "The vocational college has expanded its marketing campaigns to _______ people who want to be chefs.",
-    "options": {
-      "A": "endanger",
-      "B": "enroll",
-      "C": "enact",
-      "D": "enjoy"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u6_test_1",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "The team had to revise their plans after discovering a ________ in their initial strategy.",
-    "options": {
-      "A": "flaw",
-      "B": "pain",
-      "C": "chance",
-      "D": "choice"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u6_test_2",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "The concept of yin and yang, representing balance and harmony, ________ from ancient Chinese philosophy.",
-    "options": {
-      "A": "enrolled",
-      "B": "originated",
-      "C": "bucked",
-      "D": "auctioned"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u6_test_3",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "Every winter, we ________ coats and blankets to shelters to help the homeless.",
-    "options": {
-      "A": "sicken",
-      "B": "reclaim",
-      "C": "tumble",
-      "D": "donate"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_test_4",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "Tourists ________ to the seaside during the summer for the sun and the sand.",
-    "options": {
-      "A": "convey",
-      "B": "block",
-      "C": "flock",
-      "D": "contact"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u6_test_5",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "The factory was shut down because it failed to ________ with the safety regulations set by the government.",
-    "options": {
-      "A": "confirm",
-      "B": "comply",
-      "C": "compose",
-      "D": "comprise"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u6_test_6",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "As unemployment rates rose, there was a noticeable ________ in the overall economic stability of the country.",
-    "options": {
-      "A": "deterioration",
-      "B": "surge",
-      "C": "buck",
-      "D": "rebound"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u6_test_7",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "The book gives an interesting ________ of life in the Tang Dynasty.",
-    "options": {
-      "A": "reason",
-      "B": "credit",
-      "C": "hand",
-      "D": "account"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_test_8",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "He needed to ________ his decision to change careers at the age of 40 to his family.",
-    "options": {
-      "A": "diversify",
-      "B": "simplify",
-      "C": "justify",
-      "D": "terrify"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u6_test_9",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "To make the most of the summer vacation, she spent hours ________ the Internet looking for travel destinations and outdoor adventures.",
-    "options": {
-      "A": "surfing",
-      "B": "working",
-      "C": "emailing",
-      "D": "handling"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u6_test_10",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "Consumers often compare the ________ price of products online before making a purchase at their local store.",
-    "options": {
-      "A": "relief",
-      "B": "retail",
-      "C": "refusal",
-      "D": "recorder"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  },
-  {
-    "id": "u6_test_11",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "The documentary featured ________ evidence that left a deep impression on the viewers about how economic crises affect everyday life.",
-    "options": {
-      "A": "striking",
-      "B": "boring",
-      "C": "challenging",
-      "D": "relaxing"
-    },
-    "rawOptions": [],
-    "answer": "A"
-  },
-  {
-    "id": "u6_test_12",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "To pay off the debt, the businessman was forced to ________ off his valuable art collection.",
-    "options": {
-      "A": "take",
-      "B": "cut",
-      "C": "sell",
-      "D": "wipe"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u6_test_13",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "She tried to fix the leak on her own but ________ up making it worse.",
-    "options": {
-      "A": "gave",
-      "B": "spoke",
-      "C": "broke",
-      "D": "wound"
-    },
-    "rawOptions": [],
-    "answer": "D"
-  },
-  {
-    "id": "u6_test_14",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "Due to safety concerns, this area is ________ to authorized personnel.",
-    "options": {
-      "A": "attached",
-      "B": "used",
-      "C": "limited",
-      "D": "opposed"
-    },
-    "rawOptions": [],
-    "answer": "C"
-  },
-  {
-    "id": "u6_test_15",
-    "unitId": "unit6",
-    "section": "test",
-    "question": "I ________ together the last of my savings to pay this month’s rent.",
-    "options": {
-      "A": "stayed",
-      "B": "scraped",
-      "C": "worked",
-      "D": "came"
-    },
-    "rawOptions": [],
-    "answer": "B"
-  }
+	{
+		"id": "u1_quiz_1",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "executive",
+		"options": {
+			"A": "（机构或公司的）主管，经理",
+			"B": "同事；（生意）伙伴",
+			"C": "（艺术、音乐、电影等的）评论家，批评家",
+			"D": "坚定的支持者；铁杆拥护者"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_quiz_2",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "plunge",
+		"options": {
+			"A": "（以···）代替，取代",
+			"B": "（使）突然向前冲；（使）跌落",
+			"C": "（尤指在科学或艺术方面）合作，协作",
+			"D": "（使）变化；（使）改变"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u1_quiz_3",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "adequacy",
+		"options": {
+			"A": "习俗；惯例；常规",
+			"B": "买卖；贸易；商务；商业",
+			"C": "充分；足够",
+			"D": "评价；评定"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_quiz_4",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "Jane decided to _______ herself in learning e-commerce by spending evenings reading books.",
+		"options": {
+			"A": "endure",
+			"B": "immerse",
+			"C": "neglect",
+			"D": "tolerate"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u1_quiz_5",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "This _______ advertisement misleadingly suggested that the product used advanced digital technology with exceptional benefits that, in reality, were nonexistent.",
+		"options": {
+			"A": "genuine",
+			"B": "deceptive",
+			"C": "authentic",
+			"D": "transparent"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u1_quiz_6",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "The implementation of the new software resulted in a significant _______ of data processing, improving the overall efficiency of the system.",
+		"options": {
+			"A": "collaboration",
+			"B": "limitation",
+			"C": "acceleration",
+			"D": "information"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_quiz_7",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "The scientists reorganized the laboratory to <strong>make room for</strong> new equipment.",
+		"options": {
+			"A": "make up for",
+			"B": "make use of",
+			"C": "provide space for",
+			"D": "provide support to"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_quiz_8",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "Researchers often need to <strong>collaborate</strong> on complex projects to draw on diverse expertise and achieve breakthroughs.",
+		"options": {
+			"A": "work together",
+			"B": "brainstorm individually",
+			"C": "explore positively",
+			"D": "develop closely"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_quiz_9",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "In response to the old software, the company decided to find a viable <strong>substitute</strong> that could seamlessly replace the outdated system.",
+		"options": {
+			"A": "initiative",
+			"B": "objective",
+			"C": "alternative",
+			"D": "executive"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_quiz_10",
+		"unitId": "unit1",
+		"section": "quiz",
+		"question": "In the era of virtual meetings and collaborative tools, professionals often utilize online platforms to <strong>converse</strong> with their peers.",
+		"options": {
+			"A": "integrate",
+			"B": "cope",
+			"C": "interact",
+			"D": "align"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_test_1",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "As an experienced teacher, she was able to accurately ________ her students’ strengths and weaknesses in a matter of minutes.",
+		"options": {
+			"A": "alter",
+			"B": "adapt",
+			"C": "assess",
+			"D": "admire"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_test_2",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "It’s ________ that after working so hard to achieve success and financial stability, he ended up feeling unfulfilled and unhappy with his life.",
+		"options": {
+			"A": "strategic",
+			"B": "plastic",
+			"C": "ironic",
+			"D": "economic"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_test_3",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "Many people _______ the digital age with the rapid spread of information and the ability to connect with others from anywhere in the world instantly.",
+		"options": {
+			"A": "associate",
+			"B": "educate",
+			"C": "immerse",
+			"D": "operate"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_test_4",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "After much consideration, I have decided to ________ into the challenging task of writing a novel.",
+		"options": {
+			"A": "translate",
+			"B": "develop",
+			"C": "evolve",
+			"D": "plunge"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u1_test_5",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "The final bill ________ $500, much more than what we had anticipated.",
+		"options": {
+			"A": "lived up to",
+			"B": "looked up to",
+			"C": "kept up to",
+			"D": "added up to"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u1_test_6",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "Due to our tight budget, we had to ________ chicken for beef in our dish.",
+		"options": {
+			"A": "submit",
+			"B": "substitute",
+			"C": "submitting",
+			"D": "substituting"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u1_test_7",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "Her ________ nature allowed her to notice the subtle changes in the financial market, giving her an edge in making investment decisions.",
+		"options": {
+			"A": "observant",
+			"B": "significant",
+			"C": "giant",
+			"D": "elegant"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_test_8",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "She found it difficult to believe that her husband ________ forgot their wedding anniversary.",
+		"options": {
+			"A": "fortunately",
+			"B": "luckily",
+			"C": "literally",
+			"D": "carefully"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_test_9",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "He prefers ________ trips over international travels as they allow him to explore his country’s beauty.",
+		"options": {
+			"A": "foreign",
+			"B": "domestic",
+			"C": "economic",
+			"D": "fantastic"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u1_test_10",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "We communicated ________ email before finally meeting in person.",
+		"options": {
+			"A": "via",
+			"B": "among",
+			"C": "to",
+			"D": "along"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_test_11",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "Being the eldest child in a busy household where both parents work long hours, she often carries the ________ of taking care of her younger siblings.",
+		"options": {
+			"A": "burden",
+			"B": "joy",
+			"C": "annoyance",
+			"D": "privilege"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_test_12",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "Our team has been working on a learning platform that caters to active participation and allows real-time communication between students all over the world, making it truly ________.",
+		"options": {
+			"A": "negative",
+			"B": "reactive",
+			"C": "interactive",
+			"D": "sensitive"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u1_test_13",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "Despite its ________, the new technology faced criticism from experts.",
+		"options": {
+			"A": "deception",
+			"B": "practicality",
+			"C": "practical",
+			"D": "deceptive"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u1_test_14",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "The real estate market is always unpredictable, but one thing is ________ certain – location is everything.",
+		"options": {
+			"A": "invariably",
+			"B": "individually",
+			"C": "reliably",
+			"D": "regularly"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u1_test_15",
+		"unitId": "unit1",
+		"section": "test",
+		"question": "In order to pass the class, you must ________ all spelling and grammar errors from your final essay submission.",
+		"options": {
+			"A": "endure",
+			"B": "erase",
+			"C": "expand",
+			"D": "explore"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_quiz_1",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "watertight",
+		"options": {
+			"A": "透气的；可呼吸的；通透的",
+			"B": "干的；干燥的；缺水的",
+			"C": "微湿的；湿润的；水充足的",
+			"D": "不透水的；防水的；水密的"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u2_quiz_2",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "fleet",
+		"options": {
+			"A": "船队；舰队",
+			"B": "礁；暗礁",
+			"C": "卫兵；警卫",
+			"D": "海上劳作；航海"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u2_quiz_3",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "descendant",
+		"options": {
+			"A": "亲友；亲属",
+			"B": "后代；后裔",
+			"C": "家庭；家族",
+			"D": "祖宗；祖先"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_quiz_4",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "指南针；罗盘",
+		"options": {
+			"A": "company",
+			"B": "compare",
+			"C": "compete",
+			"D": "compass"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u2_quiz_5",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "强有力的；强大的；巨大的；雄伟的",
+		"options": {
+			"A": "beauty",
+			"B": "quality",
+			"C": "mighty",
+			"D": "pretty"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u2_quiz_6",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "船舶的；航海的",
+		"options": {
+			"A": "vast",
+			"B": "naval",
+			"C": "vague",
+			"D": "natural"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_quiz_7",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "The mini-airplane on his desk serves as a _______ of his big dreams of travel.",
+		"options": {
+			"A": "symbol",
+			"B": "simple",
+			"C": "sample",
+			"D": "staple"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u2_quiz_8",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "Through Zheng He’s _______ efforts, the Ming Dynasty established peaceful trading relations with many nations along the expedition routes.",
+		"options": {
+			"A": "direct",
+			"B": "disabled",
+			"C": "distant",
+			"D": "diplomatic"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u2_quiz_9",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "No changes can _______ without the manager’s approval.",
+		"options": {
+			"A": "take up",
+			"B": "take place",
+			"C": "take over",
+			"D": "take away"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_quiz_10",
+		"unitId": "unit2",
+		"section": "quiz",
+		"question": "Appointed by the _______ court, Zheng He led one of the most impressive expeditions in history to demonstrate the Ming Dynasty’s power and strength.",
+		"options": {
+			"A": "loyal",
+			"B": "signal",
+			"C": "royal",
+			"D": "local"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u2_test_1",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "To better manage its online presence, the company decided to ________ a social media specialist as the new brand ambassador.",
+		"options": {
+			"A": "appreciate",
+			"B": "appear",
+			"C": "appoint",
+			"D": "appeal"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u2_test_2",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "The rapid ________ of the city has made the construction of new roads and infrastructure necessary.",
+		"options": {
+			"A": "expansion",
+			"B": "expression",
+			"C": "fantasy",
+			"D": "festival"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u2_test_3",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "A meaningful life is like a puzzle, each piece a ________ that fits together to create a beautiful picture.",
+		"options": {
+			"A": "symbol",
+			"B": "bonus",
+			"C": "series",
+			"D": "junk"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u2_test_4",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "She decided to ________ the necklace that had been passed down through generations, as it held memories of her family.",
+		"options": {
+			"A": "abolish",
+			"B": "spoil",
+			"C": "steal",
+			"D": "cherish"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u2_test_5",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "Reading about Audrey Hepburn’s life, she learned the importance of being ________ and understanding to all people.",
+		"options": {
+			"A": "envious",
+			"B": "gracious",
+			"C": "miraculous",
+			"D": "nervous"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_test_6",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "He used to have only a ________ idea about what to do with his life, but the biography of Mother Teresa inspired him to volunteer and help those in need around the world.",
+		"options": {
+			"A": "clear",
+			"B": "future",
+			"C": "generous",
+			"D": "vague"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u2_test_7",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "Dialogue and negotiation are essential tools for the ________ of international peace.",
+		"options": {
+			"A": "maintenance",
+			"B": "domain",
+			"C": "government",
+			"D": "navigation"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u2_test_8",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "She felt ________ of hope in the face of poverty, yet she tirelessly sought out opportunities for her children’s education.",
+		"options": {
+			"A": "failed",
+			"B": "grasped",
+			"C": "deprived",
+			"D": "provided"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u2_test_9",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "The history books recounted how people in the village tried to shield the children from the ________ of the war.",
+		"options": {
+			"A": "complexity",
+			"B": "brutality",
+			"C": "fragility",
+			"D": "majesty"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_test_10",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "He was recognized with a scholarship for his ________ performance in the world robotics competition.",
+		"options": {
+			"A": "exemplary",
+			"B": "beneficiary",
+			"C": "watertight",
+			"D": "misery"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u2_test_11",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "The biographies of world-renowned scientists give him the courage to ________ difficulties and failures in life.",
+		"options": {
+			"A": "alleviate",
+			"B": "confront",
+			"C": "divorce",
+			"D": "signify"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_test_12",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "With the map in hand and a full tank of gas, she ________ off to the quiet little town where her grandparents had grown up.",
+		"options": {
+			"A": "wrote",
+			"B": "showed",
+			"C": "paid",
+			"D": "set"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u2_test_13",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "She decided to ________ on a career change, leaving finance to pursue her passion for art.",
+		"options": {
+			"A": "put",
+			"B": "depend",
+			"C": "embark",
+			"D": "wait"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u2_test_14",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "As a community, we should all ________ in the responsibility of preserving our local heritage.",
+		"options": {
+			"A": "browse",
+			"B": "share",
+			"C": "decline",
+			"D": "wander"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u2_test_15",
+		"unitId": "unit2",
+		"section": "test",
+		"question": "In her new role, Janet is in ________ of managing the company’s intricate customer relations network.",
+		"options": {
+			"A": "charge",
+			"B": "danger",
+			"C": "search",
+			"D": "memory"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_quiz_1",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "diversity",
+		"options": {
+			"A": "（人或事物的）多样性，多元化",
+			"B": "（情形或某人性格的）某一方面",
+			"C": "（尤指疼痛或烦恼时的）呻吟，哼哼声",
+			"D": "（大脑的）半球"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_quiz_2",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "jet lag",
+		"options": {
+			"A": "愿意考虑",
+			"B": "时差反应",
+			"C": "与世隔绝",
+			"D": "模棱两可"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_quiz_3",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "infinite",
+		"options": {
+			"A": "观察力敏锐的，机警的",
+			"B": "固执的，倔强的",
+			"C": "坚决的，果断的",
+			"D": "无限的，无穷无尽的"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u3_quiz_4",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "廉价出售",
+		"options": {
+			"A": "after sale",
+			"B": "on sale",
+			"C": "quick sale",
+			"D": "retail sale"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_quiz_5",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "全体的；集体的",
+		"options": {
+			"A": "private",
+			"B": "finite",
+			"C": "stubborn",
+			"D": "corporate"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u3_quiz_6",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "与···相对，与···相比",
+		"options": {
+			"A": "verse",
+			"B": "versus",
+			"C": "diverse",
+			"D": "vertical"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_quiz_7",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "As part of the cybersecurity protocol, it is _______ for all employees to undergo regular training sessions to enhance their understanding of potential online threats.",
+		"options": {
+			"A": "compulsory",
+			"B": "burdensome",
+			"C": "pointless",
+			"D": "naive"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_quiz_8",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "To truly experience the local festival, you have to _______ your schedule and give in to the festive tide that surrounds you.",
+		"options": {
+			"A": "endow",
+			"B": "mingle",
+			"C": "loosen",
+			"D": "contemplate"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_quiz_9",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "The team of engineers worked tirelessly to ________ the complex coding issues.",
+		"options": {
+			"A": "solve",
+			"B": "offset",
+			"C": "applaud",
+			"D": "include"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_quiz_10",
+		"unitId": "unit3",
+		"section": "quiz",
+		"question": "We encourage our employees to _______ new technologies and methodologies, fostering innovation and staying at the forefront of industry advancements.",
+		"options": {
+			"A": "be easier said than done",
+			"B": "be open to",
+			"C": "be quite sure",
+			"D": "be just fine"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_test_1",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "The ________ presentation was met with much success and praise from industry professionals.",
+		"options": {
+			"A": "corporate",
+			"B": "burdensome",
+			"C": "terminal",
+			"D": "cognitive"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_test_2",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "She hoped that the therapy sessions would ________ her restrictive ways of thinking.",
+		"options": {
+			"A": "validate",
+			"B": "confirm",
+			"C": "reinforce",
+			"D": "loosen"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u3_test_3",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "As a team, we worked together to ________ the complex problem at hand.",
+		"options": {
+			"A": "leap",
+			"B": "solve",
+			"C": "denote",
+			"D": "endow"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_test_4",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "Despite the ________ possibilities of the universe, he found the greatest joy in the simple moments spent with his family.",
+		"options": {
+			"A": "infinite",
+			"B": "limited",
+			"C": "constrained",
+			"D": "susceptible"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_test_5",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "With the rise of social media, businesses have been able to ________ their reach like never before.",
+		"options": {
+			"A": "recognize",
+			"B": "standardize",
+			"C": "customize",
+			"D": "globalize"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u3_test_6",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "In the discussion, the teacher remained ________, avoiding taking sides and ensuring a fair evaluation of different perspectives presented by the students.",
+		"options": {
+			"A": "enthusiastic",
+			"B": "ambiguous",
+			"C": "neutral",
+			"D": "subjective"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u3_test_7",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "The company values ________ and actively strives toward creating an inclusive work environment.",
+		"options": {
+			"A": "reality",
+			"B": "authority",
+			"C": "intensity",
+			"D": "diversity"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u3_test_8",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "The city prides itself on its ________ diversity, with residents from all corners of the globe.",
+		"options": {
+			"A": "ethnic",
+			"B": "economic",
+			"C": "dramatic",
+			"D": "classic"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_test_9",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "After months of ________, she realized the importance of human connection and interaction.",
+		"options": {
+			"A": "celebration",
+			"B": "isolation",
+			"C": "expression",
+			"D": "innovation"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_test_10",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "We were given ________ time to complete the project, ensuring a thorough and well-thought-out solution.",
+		"options": {
+			"A": "precise",
+			"B": "ample",
+			"C": "reckless",
+			"D": "neutral"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u3_test_11",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "His ________ and attention to detail served him well in his career as a surgeon.",
+		"options": {
+			"A": "caution",
+			"B": "reservation",
+			"C": "celebration",
+			"D": "application"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_test_12",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "The new software program ________ the user with capabilities beyond what was previously possible.",
+		"options": {
+			"A": "endows",
+			"B": "collaborates",
+			"C": "copes",
+			"D": "interacts"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_test_13",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "________, she prefers to spend her weekends exploring local parks and nature reserves.",
+		"options": {
+			"A": "As far as possible",
+			"B": "In the blink of an eye",
+			"C": "More often than not",
+			"D": "In addition to this"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u3_test_14",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "It’s important to ________ from work to recharge and maintain a healthy work-life balance.",
+		"options": {
+			"A": "take time off",
+			"B": "take it easy",
+			"C": "take a chance",
+			"D": "take action"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u3_test_15",
+		"unitId": "unit3",
+		"section": "test",
+		"question": "Studying abroad offers a unique opportunity to ________ to new cultures and perspectives.",
+		"options": {
+			"A": "speak one’s mind",
+			"B": "bear in mind",
+			"C": "open one’s mind",
+			"D": "make up one’s mind"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_quiz_1",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "grind",
+		"options": {
+			"A": "令人开心的事",
+			"B": "没有价值的事",
+			"C": "私事",
+			"D": "苦差事"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u4_quiz_2",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "livelihood",
+		"options": {
+			"A": "生计",
+			"B": "生态",
+			"C": "生命",
+			"D": "生物"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u4_quiz_3",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "diligence",
+		"options": {
+			"A": "艰难；贫困；困苦",
+			"B": "义务；责任；职责",
+			"C": "勤勉；勤奋；用功",
+			"D": "照顾；照料；护理"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_quiz_4",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "完全相反；正好相反",
+		"options": {
+			"A": "poll",
+			"B": "pull",
+			"C": "polar",
+			"D": "pure"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_quiz_5",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "（感情、思想、精力的）发泄出路，表现机会",
+		"options": {
+			"A": "outline",
+			"B": "outlet",
+			"C": "outlook",
+			"D": "outside"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u4_quiz_6",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "流言蜚语；闲言碎语；传闻",
+		"options": {
+			"A": "legend",
+			"B": "event",
+			"C": "story",
+			"D": "gossip"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u4_quiz_7",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "Her active _______ of work-life balance has significantly improved her overall health and job performance.",
+		"options": {
+			"A": "pursuit",
+			"B": "denial",
+			"C": "dream",
+			"D": "passion"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u4_quiz_8",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "By _______ our data analysis, we have significantly increased productivity and gained valuable insights into the market.",
+		"options": {
+			"A": "abolishing",
+			"B": "upcoming",
+			"C": "automating",
+			"D": "refraining"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_quiz_9",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "The new employee had to quickly _______ to the office culture to integrate with the team and work effectively.",
+		"options": {
+			"A": "contact",
+			"B": "control",
+			"C": "confirm",
+			"D": "conform"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u4_quiz_10",
+		"unitId": "unit4",
+		"section": "quiz",
+		"question": "There are several urgent tasks _______ that need your immediate attention.",
+		"options": {
+			"A": "by hand",
+			"B": "at hand",
+			"C": "on one hand",
+			"D": "out of hand"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u4_test_1",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "The local theater group offers young people a(n) ________ to express themselves.",
+		"options": {
+			"A": "sin",
+			"B": "void",
+			"C": "anchor",
+			"D": "outlet"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u4_test_2",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "Workers in this company receive a higher wage for ________ tasks that require precision and skill.",
+		"options": {
+			"A": "moral",
+			"B": "manual",
+			"C": "motive",
+			"D": "mutual"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u4_test_3",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "The new project was completed ahead of schedule, thanks to the team’s ________ and hard work.",
+		"options": {
+			"A": "diligence",
+			"B": "livelihood",
+			"C": "diversion",
+			"D": "gossip"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u4_test_4",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "We need to ________ the roof before the rainy season starts to avoid any leaks.",
+		"options": {
+			"A": "guard",
+			"B": "ponder",
+			"C": "patch",
+			"D": "ensure"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_test_5",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "________ safety checks are carried out on the factory’s machines every three months to prevent any potential danger.",
+		"options": {
+			"A": "Infectious",
+			"B": "Periodic",
+			"C": "Obvious",
+			"D": "Stable"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u4_test_6",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "To avoid contamination, researchers in the lab must ________ from touching any surfaces without gloves.",
+		"options": {
+			"A": "review",
+			"B": "refrain",
+			"C": "revise",
+			"D": "rescue"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u4_test_7",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "My job in the company is to ________ the marketing campaigns and assess their impact on sales.",
+		"options": {
+			"A": "overcome",
+			"B": "overuse",
+			"C": "overlook",
+			"D": "oversee"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u4_test_8",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "The CEO announced a zero-tolerance policy that aims to ________ discrimination against women within the company.",
+		"options": {
+			"A": "abolish",
+			"B": "automate",
+			"C": "accelerate",
+			"D": "accuse"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u4_test_9",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "The bravery of the young child facing her illness with a smile ________ everyone’s heart.",
+		"options": {
+			"A": "endeavored",
+			"B": "punched",
+			"C": "pierced",
+			"D": "gauged"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_test_10",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "Online shopping is becoming increasingly ________, boosting the rural economy by enabling the sale of fresh local produce to the whole country.",
+		"options": {
+			"A": "complex",
+			"B": "communicative",
+			"C": "commonplace",
+			"D": "compulsory"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u4_test_11",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "Reading has become a cherished ________ for people looking forward to relaxing after a long day at work.",
+		"options": {
+			"A": "job",
+			"B": "pastime",
+			"C": "homework",
+			"D": "play"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u4_test_12",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "He felt it was his duty to ________ on the craftsmanship of handmade furniture that his father had mastered through years of dedicated work.",
+		"options": {
+			"A": "carry",
+			"B": "bring",
+			"C": "put",
+			"D": "back"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u4_test_13",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "I need a needle and thread to ________ up this hole in my jeans.",
+		"options": {
+			"A": "live",
+			"B": "clean",
+			"C": "beat",
+			"D": "stitch"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u4_test_14",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "Jane is ________ out samples of her homemade cookies at the farmers’ market to attract customers.",
+		"options": {
+			"A": "running",
+			"B": "speaking",
+			"C": "finding",
+			"D": "giving"
+		},
+		"rawOptions": [],
+		"answer": null
+	},
+	{
+		"id": "u4_test_15",
+		"unitId": "unit4",
+		"section": "test",
+		"question": "The software development team had to ________ with numerous bugs before launching.",
+		"options": {
+			"A": "confirm",
+			"B": "contend",
+			"C": "connect",
+			"D": "consider"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_quiz_1",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "rip",
+		"options": {
+			"A": "引发，激发（尤指一系列事件）",
+			"B": "（尤指通过努力）完成，实现",
+			"C": "（被）撕裂；（被）扯开",
+			"D": "（使）停止；（使）停下"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u5_quiz_2",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "boundary",
+		"options": {
+			"A": "边界；界限",
+			"B": "攀登；登上",
+			"C": "摆动；摇摆",
+			"D": "起因；诱因"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_quiz_3",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "gigantic",
+		"options": {
+			"A": "广泛的",
+			"B": "巨大的",
+			"C": "巍峨的",
+			"D": "关键的"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_quiz_4",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "码头；船坞",
+		"options": {
+			"A": "feat",
+			"B": "dock",
+			"C": "halt",
+			"D": "trigger"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_quiz_5",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "器官",
+		"options": {
+			"A": "organ",
+			"B": "blueprint",
+			"C": "force",
+			"D": "bound"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_quiz_6",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "一批；一组",
+		"options": {
+			"A": "switch",
+			"B": "sketch",
+			"C": "patch",
+			"D": "batch"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u5_quiz_7",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "The feeling of relaxation is _______ associated with spending time in nature, away from the hustle and bustle of urban life.",
+		"options": {
+			"A": "suddenly",
+			"B": "carefully",
+			"C": "normally",
+			"D": "tearfully"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u5_quiz_8",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "After years of rigorous training and preparation, the astronaut finally _______ his lifelong dream of venturing into space.",
+		"options": {
+			"A": "docked",
+			"B": "halted",
+			"C": "triggered",
+			"D": "accomplished"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u5_quiz_9",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "The collaboration between international space agencies is crucial _______ of advancing space exploration, allowing shared resources, knowledge, and expertise to propel humanity’s understanding of the universe.",
+		"options": {
+			"A": "for the benefit",
+			"B": "for a while",
+			"C": "for the most part",
+			"D": "for the record"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_quiz_10",
+		"unitId": "unit5",
+		"section": "quiz",
+		"question": "The successful launch of the new satellite _______ a wave of excitement and renewed interest in space exploration.",
+		"options": {
+			"A": "triggered off",
+			"B": "ripped through",
+			"C": "benefited from",
+			"D": "vibrated with"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_test_1",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The ________ is known for its beautiful landscapes and rich history.",
+		"options": {
+			"A": "division",
+			"B": "region",
+			"C": "segment",
+			"D": "profile"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_test_2",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "She worked hard for years to ________ her dream of becoming a doctor.",
+		"options": {
+			"A": "acquire",
+			"B": "accommodate",
+			"C": "accomplish",
+			"D": "accompany"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u5_test_3",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The team developed a strategic ________ for the company’s growth over the next five years, outlining key steps and objectives to achieve their vision.",
+		"options": {
+			"A": "blueprint",
+			"B": "draft",
+			"C": "outline",
+			"D": "model"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_test_4",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The statues in the park are ________ and tower over everything else.",
+		"options": {
+			"A": "abundant",
+			"B": "countless",
+			"C": "gigantic",
+			"D": "unforgettable"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u5_test_5",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The police officer ordered the car to ________ at the intersection.",
+		"options": {
+			"A": "grit",
+			"B": "halt",
+			"C": "dock",
+			"D": "default"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_test_6",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The loud noise from the construction project can ________ headaches for those living nearby.",
+		"options": {
+			"A": "trigger",
+			"B": "conclude",
+			"C": "halt",
+			"D": "elevate"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_test_7",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "He accidentally ________ his pants while climbing over the fence.",
+		"options": {
+			"A": "ripped",
+			"B": "equipped",
+			"C": "gripped",
+			"D": "risked"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_test_8",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The river marks the ________ between the two countries.",
+		"options": {
+			"A": "center",
+			"B": "boundary",
+			"C": "priority",
+			"D": "enemy"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_test_9",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The two companies agreed to ________ on the development of the new product.",
+		"options": {
+			"A": "consult",
+			"B": "concede",
+			"C": "cooperate",
+			"D": "condemn"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u5_test_10",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The plane ________ into the mountains during the storm.",
+		"options": {
+			"A": "soared",
+			"B": "crashed",
+			"C": "whispered",
+			"D": "marveled"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_test_11",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The power cut caused by the storm ________ the whole city.",
+		"options": {
+			"A": "encouraged",
+			"B": "stabilized",
+			"C": "discovered",
+			"D": "disrupted"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u5_test_12",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The ________ work took months before the actual event.",
+		"options": {
+			"A": "accidental",
+			"B": "ready",
+			"C": "temporary",
+			"D": "preparatory"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u5_test_13",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "I’m ________ a very punctual person, but today I was running late due to traffic.",
+		"options": {
+			"A": "normally",
+			"B": "quickly",
+			"C": "occasionally",
+			"D": "especially"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u5_test_14",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "Let’s ________ the meeting with a quick introduction of everyone.",
+		"options": {
+			"A": "kick against",
+			"B": "kick off",
+			"C": "kick out",
+			"D": "kick up"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u5_test_15",
+		"unitId": "unit5",
+		"section": "test",
+		"question": "The architect ________ the plans for the new library and presented them to the committee for approval.",
+		"options": {
+			"A": "woke up",
+			"B": "warmed up",
+			"C": "sped up",
+			"D": "drew up"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_quiz_1",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "retail",
+		"options": {
+			"A": "零售；零卖",
+			"B": "批发；大规模销售",
+			"C": "拍卖；竞卖",
+			"D": "分发；发放"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_quiz_2",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "deposit",
+		"options": {
+			"A": "捐赠物；捐赠",
+			"B": "基金；专款",
+			"C": "股份；股票",
+			"D": "订金；预付款"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_quiz_3",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "migrant",
+		"options": {
+			"A": "宏伟的，壮丽的",
+			"B": "移民，移居者",
+			"C": "重大，严重",
+			"D": "海外的，来自国外的"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u6_quiz_4",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "严厉的；突然的",
+		"options": {
+			"A": "chaotic",
+			"B": "romantic",
+			"C": "drastic",
+			"D": "majestic"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u6_quiz_5",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "相当大的",
+		"options": {
+			"A": "tall",
+			"B": "broad",
+			"C": "wide",
+			"D": "sizable"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_quiz_6",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "（银行等的）贷款",
+		"options": {
+			"A": "account",
+			"B": "loan",
+			"C": "fund",
+			"D": "stock"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u6_quiz_7",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "The worst of the economic recession finally _______ Jeff when he had to downsize his company.",
+		"options": {
+			"A": "caught up with",
+			"B": "caught the attention of",
+			"C": "caught a break",
+			"D": "caught a breath"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_quiz_8",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "An economic downturn presents an additional _______ for those who are already struggling: the increased competition for low-wage jobs.",
+		"options": {
+			"A": "fortune",
+			"B": "client",
+			"C": "bias",
+			"D": "obstacle"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_quiz_9",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "Due to the economic crisis, many potential homebuyers are hesitant to _______ a deposit _______ on a new property.",
+		"options": {
+			"A": "put … down",
+			"B": "put … up",
+			"C": "put … forward",
+			"D": "put … in"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_quiz_10",
+		"unitId": "unit6",
+		"section": "quiz",
+		"question": "The vocational college has expanded its marketing campaigns to _______ people who want to be chefs.",
+		"options": {
+			"A": "endanger",
+			"B": "enroll",
+			"C": "enact",
+			"D": "enjoy"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u6_test_1",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "The team had to revise their plans after discovering a ________ in their initial strategy.",
+		"options": {
+			"A": "flaw",
+			"B": "pain",
+			"C": "chance",
+			"D": "choice"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_test_2",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "The concept of yin and yang, representing balance and harmony, ________ from ancient Chinese philosophy.",
+		"options": {
+			"A": "enrolled",
+			"B": "originated",
+			"C": "bucked",
+			"D": "auctioned"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u6_test_3",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "Every winter, we ________ coats and blankets to shelters to help the homeless.",
+		"options": {
+			"A": "sicken",
+			"B": "reclaim",
+			"C": "tumble",
+			"D": "donate"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_test_4",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "Tourists ________ to the seaside during the summer for the sun and the sand.",
+		"options": {
+			"A": "convey",
+			"B": "block",
+			"C": "flock",
+			"D": "contact"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u6_test_5",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "The factory was shut down because it failed to ________ with the safety regulations set by the government.",
+		"options": {
+			"A": "confirm",
+			"B": "comply",
+			"C": "compose",
+			"D": "comprise"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u6_test_6",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "As unemployment rates rose, there was a noticeable ________ in the overall economic stability of the country.",
+		"options": {
+			"A": "deterioration",
+			"B": "surge",
+			"C": "buck",
+			"D": "rebound"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_test_7",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "The book gives an interesting ________ of life in the Tang Dynasty.",
+		"options": {
+			"A": "reason",
+			"B": "credit",
+			"C": "hand",
+			"D": "account"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_test_8",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "He needed to ________ his decision to change careers at the age of 40 to his family.",
+		"options": {
+			"A": "diversify",
+			"B": "simplify",
+			"C": "justify",
+			"D": "terrify"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u6_test_9",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "To make the most of the summer vacation, she spent hours ________ the Internet looking for travel destinations and outdoor adventures.",
+		"options": {
+			"A": "surfing",
+			"B": "working",
+			"C": "emailing",
+			"D": "handling"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_test_10",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "Consumers often compare the ________ price of products online before making a purchase at their local store.",
+		"options": {
+			"A": "relief",
+			"B": "retail",
+			"C": "refusal",
+			"D": "recorder"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	},
+	{
+		"id": "u6_test_11",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "The documentary featured ________ evidence that left a deep impression on the viewers about how economic crises affect everyday life.",
+		"options": {
+			"A": "striking",
+			"B": "boring",
+			"C": "challenging",
+			"D": "relaxing"
+		},
+		"rawOptions": [],
+		"answer": "A"
+	},
+	{
+		"id": "u6_test_12",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "To pay off the debt, the businessman was forced to ________ off his valuable art collection.",
+		"options": {
+			"A": "take",
+			"B": "cut",
+			"C": "sell",
+			"D": "wipe"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u6_test_13",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "She tried to fix the leak on her own but ________ up making it worse.",
+		"options": {
+			"A": "gave",
+			"B": "spoke",
+			"C": "broke",
+			"D": "wound"
+		},
+		"rawOptions": [],
+		"answer": "D"
+	},
+	{
+		"id": "u6_test_14",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "Due to safety concerns, this area is ________ to authorized personnel.",
+		"options": {
+			"A": "attached",
+			"B": "used",
+			"C": "limited",
+			"D": "opposed"
+		},
+		"rawOptions": [],
+		"answer": "C"
+	},
+	{
+		"id": "u6_test_15",
+		"unitId": "unit6",
+		"section": "test",
+		"question": "I ________ together the last of my savings to pay this month’s rent.",
+		"options": {
+			"A": "stayed",
+			"B": "scraped",
+			"C": "worked",
+			"D": "came"
+		},
+		"rawOptions": [],
+		"answer": "B"
+	}
 ]
