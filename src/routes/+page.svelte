@@ -26,7 +26,7 @@
 <div class="container mx-auto px-4 py-8 max-w-md">
   <header class="mb-8 text-center">
     <h1 class="text-3xl font-bold text-gray-800 mb-2">英语A3单词速通</h1>
-    <p class="text-gray-600">U校园Quiz + Test</p>
+    <p class="text-gray-600">U校园Quiz + Test (15x2=30)</p>
   </header>
 
   <div class="space-y-4">

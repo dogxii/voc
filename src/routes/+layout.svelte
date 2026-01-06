@@ -23,6 +23,7 @@
     type="image/svg+xml"
     href="https://avatar.dogxi.me/favicon.ico"
   />
+  <title>英语A3单词速通</title>
 </svelte:head>
 
 {@render children()}
