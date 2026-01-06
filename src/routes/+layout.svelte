@@ -1,0 +1,25 @@
+<script lang="ts">
+  import favicon from '$lib/assets/favicon.svg'
+  import '../app.css'
+  import { studyStore } from '$lib/store.svelte'
+  import { browser } from '$app/environment'
+
+  let { children } = $props()
+
+  $effect(() => {
+    if (browser) {
+      const data = {
+        mastered: studyStore.mastered,
+        currentUnitId: studyStore.currentUnitId,
+        currentType: studyStore.currentType,
+      }
+      localStorage.setItem('voc_progress', JSON.stringify(data))
+    }
+  })
+</script>
+
+<svelte:head>
+  <link rel="icon" href={favicon} />
+</svelte:head>
+
+{@render children()}
