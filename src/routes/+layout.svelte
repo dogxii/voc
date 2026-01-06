@@ -1,5 +1,4 @@
 <script lang="ts">
-  import favicon from '$lib/assets/favicon.svg'
   import '../app.css'
   import { studyStore } from '$lib/store.svelte'
   import { browser } from '$app/environment'
@@ -19,7 +18,11 @@
 </script>
 
 <svelte:head>
-  <link rel="icon" href={favicon} />
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="https://avatar.dogxi.me/favicon.ico"
+  />
 </svelte:head>
 
 {@render children()}
