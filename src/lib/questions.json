@@ -437,7 +437,7 @@
 		"id": "u2_quiz_7",
 		"unitId": "unit2",
 		"section": "quiz",
-		"question": "She always manages to combine her stylish clothes effortlessly for a flawless look.",
+		"question": "She always manages to combine her <strong>stylish</strong> clothes effortlessly for a flawless look.",
 		"options": {
 			"A": "fashionable",
 			"B": "foolish",
@@ -451,7 +451,7 @@
 		"id": "u2_quiz_8",
 		"unitId": "unit2",
 		"section": "quiz",
-		"question": "I hustled to register all the details of her beauty in my memory before she walked away.",
+		"question": "I hustled to <strong>register</strong> all the details of her beauty in my memory before she walked away.",
 		"options": {
 			"A": "write",
 			"B": "record",
@@ -465,7 +465,7 @@
 		"id": "u2_quiz_9",
 		"unitId": "unit2",
 		"section": "quiz",
-		"question": "He is addicted to capturing the beauty of nature through his camera, spending all his free time in forests and fields.",
+		"question": "He <strong>is addicted to</strong> capturing the beauty of nature through his camera, spending all his free time in forests and fields.",
 		"options": {
 			"A": "is used to",
 			"B": "is satisfied with",
@@ -479,7 +479,7 @@
 		"id": "u2_quiz_10",
 		"unitId": "unit2",
 		"section": "quiz",
-		"question": "The landscape architect is accountable to the community for maintaining the beauty of the city parks.",
+		"question": "The landscape architect <strong>is accountable to</strong> the community for maintaining the beauty of the city parks.",
 		"options": {
 			"A": "is committed to",
 			"B": "is available for",
@@ -787,7 +787,7 @@
 		"id": "u3_quiz_7",
 		"unitId": "unit3",
 		"section": "quiz",
-		"question": "The inspiring talk given by the guest speaker served to invigorate the students’ determination to pursue their passion for science.",
+		"question": "The inspiring talk given by the guest speaker served to <strong>invigorate</strong> the students’ determination to pursue their passion for science.",
 		"options": {
 			"A": "impair",
 			"B": "strengthen",
@@ -801,7 +801,7 @@
 		"id": "u3_quiz_8",
 		"unitId": "unit3",
 		"section": "quiz",
-		"question": "The art exhibition was made possible through the generous sponsorship of several local businesses that provided funding and support.",
+		"question": "The art exhibition was made possible through the generous <strong>sponsorship</strong> of several local businesses that provided funding and support.",
 		"options": {
 			"A": "partnership",
 			"B": "backing",
@@ -815,7 +815,7 @@
 		"id": "u3_quiz_9",
 		"unitId": "unit3",
 		"section": "quiz",
-		"question": "The team found that the calm and organized workspace was extremely conducive to getting more work done with fewer mistakes.",
+		"question": "The team found that the calm and organized workspace was extremely <strong>conducive</strong> to getting more work done with fewer mistakes.",
 		"options": {
 			"A": "knowledgeable",
 			"B": "helpful",
@@ -829,7 +829,7 @@
 		"id": "u3_quiz_10",
 		"unitId": "unit3",
 		"section": "quiz",
-		"question": "The performance of the new model was outstanding, especially in terms of its enhanced battery life and processing speed.",
+		"question": "The performance of the new model was outstanding, especially <strong>in terms of</strong> its enhanced battery life and processing speed.",
 		"options": {
 			"A": "regarding",
 			"B": "in addition to",
@@ -1837,7 +1837,7 @@
 		"id": "u6_quiz_7",
 		"unitId": "unit6",
 		"section": "quiz",
-		"question": "Modern biofuels, derived from agricultural crops, offer a renewable alternative to fossil fuels for energy production.",
+		"question": "Modern biofuels, <strong>derived from</strong> agricultural crops, offer a renewable alternative to fossil fuels for energy production.",
 		"options": {
 			"A": "heard from",
 			"B": "developed from",
@@ -1851,7 +1851,7 @@
 		"id": "u6_quiz_8",
 		"unitId": "unit6",
 		"section": "quiz",
-		"question": "As the demand for renewable energy surges, engineers work feverishly to optimize wind turbine (风力发电涡轮机) efficiency in various climates.",
+		"question": "As the demand for renewable energy surges, engineers work <strong>feverishly</strong> to optimize wind turbine (风力发电涡轮机) efficiency in various climates.",
 		"options": {
 			"A": "carefully",
 			"B": "intensely",
@@ -1865,7 +1865,7 @@
 		"id": "u6_quiz_9",
 		"unitId": "unit6",
 		"section": "quiz",
-		"question": "To address the food shortage, the community program aims to convert unused urban spaces into thriving vegetable gardens.",
+		"question": "To address the food shortage, the community program aims to <strong>convert</strong> unused urban spaces <strong>into</strong> thriving vegetable gardens.",
 		"options": {
 			"A": "let … into …",
 			"B": "pour … into …",
@@ -1879,7 +1879,7 @@
 		"id": "u6_quiz_10",
 		"unitId": "unit6",
 		"section": "quiz",
-		"question": "Food distribution in crisis-hit areas often hinges on the accessibility of roads and the reliability of transportation networks.",
+		"question": "Food distribution in crisis-hit areas often <strong>hinges on</strong> the accessibility of roads and the reliability of transportation networks.",
 		"options": {
 			"A": "depends on",
 			"B": "calls on",

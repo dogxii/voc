@@ -39,10 +39,10 @@ Quiz
 4. 给······做开场白；为······写序言 A prepare B predict C preface D preach 正确答案：C
 5. 可靠的；真实的 A athletic B authentic C alphabetic D apologetic 正确答案：B
 6. 永恒 A eternity B infinity C unity D vanity 正确答案：A
-7. She always manages to combine her stylish clothes effortlessly for a flawless look. A fashionable B foolish C honesty D modesty 正确答案：A
-8. I hustled to register all the details of her beauty in my memory before she walked away. A write B record C state D perceive 正确答案：B
-9. He is addicted to capturing the beauty of nature through his camera, spending all his free time in forests and fields. A is used to B is satisfied with C is opposed to D is obsessed with 正确答案：D
-	10.	The landscape architect is accountable to the community for maintaining the beauty of the city parks. A is committed to B is available for C is responsible for D is dedicated to 正确答案：C
+7. She always manages to combine her <strong>stylish</strong> clothes effortlessly for a flawless look. A fashionable B foolish C honesty D modesty 正确答案：A
+8. I hustled to <strong>register</strong> all the details of her beauty in my memory before she walked away. A write B record C state D perceive 正确答案：B
+9. He <strong>is addicted to</strong> capturing the beauty of nature through his camera, spending all his free time in forests and fields. A is used to B is satisfied with C is opposed to D is obsessed with 正确答案：D
+	10.	The landscape architect <strong>is accountable to</strong> the community for maintaining the beauty of the city parks. A is committed to B is available for C is responsible for D is dedicated to 正确答案：C
 
 Test
 1. Shared hardship tends to ________ people together, as they must rely on each other for comfort and survival. A put B sew C knit D close 正确答案：C
@@ -69,10 +69,10 @@ Quiz
 4. 使商业化 A modernize B commercialize C harmonize D privatize 正确答案：B
 5. 专家咨询 A consultation B conversation C contemplation D consolidation 正确答案：A
 6. 精巧的，巧妙的 A robust B ingenious C ambiguous D rigorous 正确答案：B
-7. The inspiring talk given by the guest speaker served to invigorate the students’ determination to pursue their passion for science. A impair B strengthen C undermine D postpone 正确答案：B
-8. The art exhibition was made possible through the generous sponsorship of several local businesses that provided funding and support. A partnership B backing C ownership D fellowship 正确答案：B
-9. The team found that the calm and organized workspace was extremely conducive to getting more work done with fewer mistakes. A knowledgeable B helpful C cooperative D informative 正确答案：B
-	10.	The performance of the new model was outstanding, especially in terms of its enhanced battery life and processing speed. A regarding B in addition to C without considering D in response to 正确答案：A
+7. The inspiring talk given by the guest speaker served to <strong>invigorate</strong> the students’ determination to pursue their passion for science. A impair B strengthen C undermine D postpone 正确答案：B
+8. The art exhibition was made possible through the generous <strong>sponsorship</strong> of several local businesses that provided funding and support. A partnership B backing C ownership D fellowship 正确答案：B
+9. The team found that the calm and organized workspace was extremely <strong>conducive</strong> to getting more work done with fewer mistakes. A knowledgeable B helpful C cooperative D informative 正确答案：B
+	10.	The performance of the new model was outstanding, especially <strong>in terms of</strong> its enhanced battery life and processing speed. A regarding B in addition to C without considering D in response to 正确答案：A
 
 Test
 1. The new tech fair was an excellent opportunity for start-ups to ________ their groundbreaking products to potential investors and customers. A showcase B cover C withdraw D discard 正确答案：A
@@ -159,10 +159,10 @@ Quiz
 4. 设计精巧的小机械（或工具） A apparatus B gadget C equipment D model 正确答案：B
 5. （不定形的）块 A lump B lamp C limb D limp 正确答案：A
 6. 桨叶；螺旋桨叶；叶片状物 A blaze B blast C blade D blank 正确答案：C
-7. Modern biofuels, derived from agricultural crops, offer a renewable alternative to fossil fuels for energy production. A heard from B developed from C issued from D dated from 正确答案：B
-8. As the demand for renewable energy surges, engineers work feverishly to optimize wind turbine (风力发电涡轮机) efficiency in various climates. A carefully B intensely C randomly D diligently 正确答案：B
-9. To address the food shortage, the community program aims to convert unused urban spaces into thriving vegetable gardens. A let … into … B pour … into … C resolve … into … D change … into … 正确答案：D
-	10.	Food distribution in crisis-hit areas often hinges on the accessibility of roads and the reliability of transportation networks. A depends on B calls on C settles on D thrives on 正确答案：A
+7. Modern biofuels, <strong>derived from</strong> agricultural crops, offer a renewable alternative to fossil fuels for energy production. A heard from B developed from C issued from D dated from 正确答案：B
+8. As the demand for renewable energy surges, engineers work <strong>feverishly</strong> to optimize wind turbine (风力发电涡轮机) efficiency in various climates. A carefully B intensely C randomly D diligently 正确答案：B
+9. To address the food shortage, the community program aims to <strong>convert</strong> unused urban spaces <strong>into</strong> thriving vegetable gardens. A let … into … B pour … into … C resolve … into … D change … into … 正确答案：D
+	10.	Food distribution in crisis-hit areas often <strong>hinges on</strong> the accessibility of roads and the reliability of transportation networks. A depends on B calls on C settles on D thrives on 正确答案：A
 
 Test
 1. To protect the sensitive equipment, they covered it with a ________ of bubble wrap before placing it in the box. A pattern B carpet C layer D stream 正确答案：C
