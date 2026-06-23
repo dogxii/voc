@@ -5,362 +5,131 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Copy of VOCABULARY data for answer resolution
-const VOCABULARY = [
-  {
-    id: 'unit1',
-    quiz: [
-      { term: 'executive', definition: '主管；经理' },
-      { term: 'plunge', definition: '（使）突然向前冲；（使）跌落' },
-      { term: 'adequacy', definition: '充分；足够' },
-      { term: 'immerse', definition: '沉浸；专心投入' },
-      { term: 'deceptive', definition: '欺骗性的；具有误导性的' },
-      { term: 'acceleration', definition: '加速；加快' },
-      { term: 'provide space for', definition: '为……腾出空间；提供空间' },
-      { term: 'work together', definition: '合作；协作' },
-      { term: 'alternative', definition: '替代品；替代方案' },
-      { term: 'interact', definition: '交流；沟通；互动' },
-    ],
-    test: [
-      { term: 'assess', definition: '评估；评价' },
-      { term: 'ironic', definition: '讽刺的；具有讽刺意味的' },
-      { term: 'associate', definition: '联系；把……与……相关联' },
-      { term: 'plunge', definition: '投入；纵身开始（困难任务）' },
-      { term: 'added up to', definition: '合计；总计' },
-      { term: 'substitute', definition: '用……代替；替换' },
-      { term: 'observant', definition: '善于观察的；敏锐的' },
-      { term: 'literally', definition: '真的；确实地（字面上）' },
-      { term: 'domestic', definition: '国内的；本国的' },
-      { term: 'via', definition: '通过；经由' },
-      { term: 'burden', definition: '负担；重担' },
-      { term: 'interactive', definition: '交互式的；互动的' },
-      { term: 'practicality', definition: '实用性' },
-      { term: 'invariably', definition: '总是；一贯' },
-      { term: 'erase', definition: '擦除；消除' },
-    ],
-  },
-  {
-    id: 'unit2',
-    quiz: [
-      { term: 'watertight', definition: '不透水的；防水的；水密的' },
-      { term: 'fleet', definition: '船队；舰队' },
-      { term: 'descendant', definition: '后代；后裔' },
-      { term: 'compass', definition: '指南针；罗盘' },
-      { term: 'mighty', definition: '强有力的；强大的；巨大的；雄伟的' },
-      { term: 'naval', definition: '船舶的；航海的' },
-      { term: 'symbol', definition: '象征；符号' },
-      { term: 'diplomatic', definition: '外交的；从事外交的' },
-      { term: 'take place', definition: '发生；进行' },
-      { term: 'royal', definition: '皇家的；王室的' },
-    ],
-    test: [
-      { term: 'appoint', definition: '任命；委派' },
-      { term: 'expansion', definition: '扩张；扩展' },
-      { term: 'symbol', definition: '象征；符号' },
-      { term: 'cherish', definition: '珍爱；珍视' },
-      { term: 'gracious', definition: '和蔼的；亲切的；宽厚的' },
-      { term: 'vague', definition: '模糊的；不清楚的' },
-      { term: 'maintenance', definition: '维护；维持' },
-      { term: 'deprived', definition: '被剥夺的；贫困的' },
-      { term: 'brutality', definition: '残暴；野蛮' },
-      { term: 'exemplary', definition: '模范的；杰出的' },
-      { term: 'confront', definition: '直面；对抗' },
-      { term: 'set off', definition: '出发；动身' },
-      { term: 'embark', definition: '着手；从事；启程' },
-      { term: 'share', definition: '共同承担；分享' },
-      { term: 'in charge', definition: '负责；主管' },
-    ],
-  },
-  {
-    id: 'unit3',
-    quiz: [
-      { term: 'diversity', definition: '多样性；多元化' },
-      { term: 'jet lag', definition: '时差反应' },
-      { term: 'infinite', definition: '无限的；无穷无尽的' },
-      { term: 'on sale', definition: '廉价出售；促销中' },
-      { term: 'corporate', definition: '全体的；集体的；公司的' },
-      { term: 'versus', definition: '与……相对；与……相比' },
-      { term: 'compulsory', definition: '强制性的；必修的' },
-      { term: 'loosen', definition: '放松；松开' },
-      { term: 'solve', definition: '解决' },
-      { term: 'be open to', definition: '乐于接受；对……持开放态度' },
-    ],
-    test: [
-      { term: 'corporate', definition: '企业的；公司的' },
-      { term: 'loosen', definition: '放松；松开' },
-      { term: 'solve', definition: '解决' },
-      { term: 'infinite', definition: '无限的；无穷的' },
-      { term: 'globalize', definition: '全球化；使全球化' },
-      { term: 'neutral', definition: '中立的；不偏不倚的' },
-      { term: 'diversity', definition: '多样性；多元化' },
-      { term: 'ethnic', definition: '民族的；种族的' },
-      { term: 'isolation', definition: '隔离；孤立' },
-      { term: 'ample', definition: '充足的；丰富的' },
-      { term: 'caution', definition: '谨慎；小心' },
-      { term: 'endow', definition: '赋予；授予' },
-      { term: 'More often than not', definition: '大多数情况下；往往' },
-      { term: 'take time off', definition: '休息；请假' },
-      { term: 'open one’s mind', definition: '敞开心扉；开阔眼界' },
-    ],
-  },
-  {
-    id: 'unit4',
-    quiz: [
-      { term: 'grind', definition: '苦差事' },
-      { term: 'livelihood', definition: '生计' },
-      { term: 'diligence', definition: '勤勉；勤奋；用功' },
-      { term: 'polar opposite', definition: '完全相反；正好相反' },
-      { term: 'outlet', definition: '发泄途径；表现机会' },
-      { term: 'gossip', definition: '流言蜚语；传闻' },
-      { term: 'pursuit', definition: '追求' },
-      { term: 'automating', definition: '自动化（处理）' },
-      { term: 'conform', definition: '遵从；适应（规范）' },
-      { term: 'at hand', definition: '在手边；当前的' },
-    ],
-    test: [
-      { term: 'outlet', definition: '发泄途径；表现机会' },
-      { term: 'manual', definition: '体力的；手工的' },
-      { term: 'diligence', definition: '勤奋；勤勉' },
-      { term: 'patch', definition: '修补；补丁' },
-      { term: 'periodic', definition: '周期性的；定期的' },
-      { term: 'refrain', definition: '克制；避免' },
-      { term: 'oversee', definition: '监督；管理' },
-      { term: 'abolish', definition: '废除；取消' },
-      { term: 'pierced', definition: '刺穿；打动' },
-      { term: 'commonplace', definition: '司空见惯的；常见的' },
-      { term: 'pastime', definition: '消遣；业余爱好' },
-      { term: 'carry on', definition: '传承；继续' },
-      { term: 'stitch', definition: '缝合；缝补' },
-      { term: 'giving out', definition: '分发；发放' },
-      { term: 'contend', definition: '斗争；应对；处理' },
-    ],
-  },
-  {
-    id: 'unit5',
-    quiz: [
-      { term: 'rip', definition: '（被）撕裂；（被）扯开' },
-      { term: 'boundary', definition: '边界；界限' },
-      { term: 'gigantic', definition: '巨大的' },
-      { term: 'dock', definition: '码头；船坞' },
-      { term: 'organ', definition: '器官' },
-      { term: 'batch', definition: '一批；一组' },
-      { term: 'normally', definition: '通常地；一般而言' },
-      { term: 'accomplished', definition: '完成；实现' },
-      { term: 'for the benefit of', definition: '为了……的益处' },
-      { term: 'triggered off', definition: '引发；激起' },
-    ],
-    test: [
-      { term: 'region', definition: '地区；区域' },
-      { term: 'accomplish', definition: '完成；实现' },
-      { term: 'blueprint', definition: '蓝图；详细计划' },
-      { term: 'gigantic', definition: '巨大的；庞大的' },
-      { term: 'halt', definition: '停止；使停下' },
-      { term: 'trigger', definition: '引发；触发' },
-      { term: 'ripped', definition: '撕裂；扯破' },
-      { term: 'boundary', definition: '边界；界限' },
-      { term: 'cooperate', definition: '合作；协作' },
-      { term: 'crashed', definition: '坠毁；撞毁' },
-      { term: 'disrupted', definition: '扰乱；中断' },
-      { term: 'preparatory', definition: '准备性的；预备的' },
-      { term: 'normally', definition: '通常；一般情况下' },
-      { term: 'kick off', definition: '开始；开场' },
-      { term: 'drew up', definition: '起草；拟定' },
-    ],
-  },
-  {
-    id: 'unit6',
-    quiz: [
-      { term: 'retail', definition: '零售；零卖' },
-      { term: 'deposit', definition: '订金；预付款' },
-      { term: 'migrant', definition: '移民；移居者' },
-      { term: 'drastic', definition: '严厉的；突然的' },
-      { term: 'sizable', definition: '相当大的' },
-      { term: 'loan', definition: '贷款' },
-      { term: 'caught up with', definition: '追上；影响到' },
-      { term: 'obstacle', definition: '障碍；阻碍' },
-      { term: 'put down', definition: '支付订金' },
-      { term: 'enroll', definition: '招收；录取' },
-    ],
-    test: [
-      { term: 'flaw', definition: '缺陷；瑕疵' },
-      { term: 'originated', definition: '起源于；源自' },
-      { term: 'donate', definition: '捐赠；捐献' },
-      { term: 'flock', definition: '蜂拥而至；群集' },
-      { term: 'comply', definition: '遵守；符合' },
-      { term: 'deterioration', definition: '恶化；衰退' },
-      { term: 'account', definition: '记述；描述' },
-      { term: 'justify', definition: '为……辩解；证明正当' },
-      { term: 'surfing', definition: '上网浏览；网络冲浪' },
-      { term: 'retail', definition: '零售价' },
-      { term: 'striking', definition: '引人注目的；显著的' },
-      { term: 'sell', definition: '变卖；出售' },
-      { term: 'wound', definition: '最终；结果' },
-      { term: 'limited', definition: '仅限于；受限制的' },
-      { term: 'scraped', definition: '东拼西凑；凑集' },
-    ],
-  },
-];
+const sourcePath = path.join(__dirname, '../原题.txt');
+const outputPath = path.join(__dirname, '../src/lib/questions.json');
 
-const rawText = fs.readFileSync(path.join(__dirname, '../原题.txt'), 'utf-8');
+function normalizeText(text) {
+  return text
+    .replace(/\u2028/g, '\n')
+    .replace(/\r\n?/g, '\n')
+    .replace(/\u00a0/g, ' ');
+}
+
+function assertSectionReady(unit, section, line) {
+  if (!unit || !section) {
+    throw new Error(`Question found before unit/section: ${line}`);
+  }
+}
 
 function parseQuestions(text) {
   const questions = [];
-  const lines = text.split('\n');
-  let currentUnit = 1;
-  let currentSection = ''; // Quiz or Test
+  const lines = normalizeText(text)
+    .split('\n')
+    .map((line) => line.trim())
+    .filter(Boolean);
+
+  let currentUnit = null;
+  let currentSection = null;
   let currentQ = null;
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i].trim();
-    if (!line) continue;
+  function pushCurrent() {
+    if (!currentQ) return;
 
-    // Detect Unit
-    const unitMatch = line.match(/^Unit\s+(\d+)/i);
+    const optionCount = Object.keys(currentQ.options).length;
+    if (optionCount !== 4) {
+      throw new Error(
+        `${currentQ.id} expected 4 options, found ${optionCount}`,
+      );
+    }
+    if (!currentQ.answer) {
+      throw new Error(`${currentQ.id} is missing an answer`);
+    }
+    if (!currentQ.options[currentQ.answer]) {
+      throw new Error(`${currentQ.id} answer does not match an option`);
+    }
+
+    questions.push(currentQ);
+    currentQ = null;
+  }
+
+  for (const line of lines) {
+    const unitMatch = line.match(/^Unit\s+(\d+)$/i);
     if (unitMatch) {
-      currentUnit = parseInt(unitMatch[1]);
+      pushCurrent();
+      currentUnit = Number(unitMatch[1]);
+      currentSection = null;
       continue;
     }
 
-    // Detect Section
-    if (line.includes('Quiz')) {
+    if (/^Quiz$/i.test(line)) {
+      pushCurrent();
       currentSection = 'quiz';
       continue;
     }
-    if (line.includes('Unit test')) {
+
+    if (/^(?:Unit\s+)?Test$/i.test(line)) {
+      pushCurrent();
       currentSection = 'test';
       continue;
     }
 
-    // Detect Question start (e.g., "1. executive" or "1. ...")
-    const qMatch = line.match(/^(\d+)\.\s+(.*)/);
-    if (qMatch) {
-      if (currentQ) {
-        questions.push(currentQ);
-      }
+    const questionMatch = line.match(/^(\d+)\.\s*(.+)$/);
+    if (questionMatch) {
+      pushCurrent();
+      assertSectionReady(currentUnit, currentSection, line);
+
       currentQ = {
-        id: `u${currentUnit}_${currentSection}_${qMatch[1]}`,
+        id: `u${currentUnit}_${currentSection}_${questionMatch[1]}`,
         unitId: `unit${currentUnit}`,
         section: currentSection,
-        question: qMatch[2],
+        question: questionMatch[2],
         options: {},
-        rawOptions: []
+        rawOptions: [],
+        answer: null,
       };
       continue;
     }
 
-    // Detect Options
-    // Case 1: "A ... B ... C ... D ..." on one line
-    if (line.match(/^[ABCD]\s+/)) {
-       // It's an option line.
-       // Try to split by Letter
-       const parts = line.split(/\s+(?=[A-D]\s+)/);
-       parts.forEach(p => {
-           const match = p.match(/^([A-D])\s+(.*)/);
-           if (match && currentQ) {
-               currentQ.options[match[1]] = match[2];
-           } else if (match && !currentQ) {
-              // Parsing error or weird format
-           } else if (currentQ) {
-               // Sometimes the split isn't perfect if spacing is missing, but this basic regex works for standard formats
-               // Check if line starts with just one option
-               const singleMatch = p.match(/^([A-D])\s+(.*)/);
-               if(singleMatch) {
-                  currentQ.options[singleMatch[1]] = singleMatch[2];
-               }
-           }
-       });
-    } else {
-        // Maybe continuation of question?
-        if (currentQ && Object.keys(currentQ.options).length === 0) {
-            currentQ.question += " " + line;
-        }
+    const optionMatch = line.match(/^([ABCD])\s+(.+)$/);
+    if (optionMatch) {
+      if (!currentQ) {
+        throw new Error(`Option found before question: ${line}`);
+      }
+      currentQ.options[optionMatch[1]] = optionMatch[2];
+      continue;
+    }
+
+    const answerMatch = line.match(/^正确答案[:：]\s*([ABCD])$/);
+    if (answerMatch) {
+      if (!currentQ) {
+        throw new Error(`Answer found before question: ${line}`);
+      }
+      currentQ.answer = answerMatch[1];
+      continue;
+    }
+
+    if (currentQ && Object.keys(currentQ.options).length === 0) {
+      currentQ.question = `${currentQ.question} ${line}`;
+      continue;
     }
   }
-  // Push last question
-  if (currentQ) {
-    questions.push(currentQ);
-  }
+
+  pushCurrent();
   return questions;
 }
 
-function solveQuestion(q) {
-  const unitData = VOCABULARY.find(u => u.id === q.unitId);
-  if (!unitData) return null;
-  const wordList = unitData[q.section];
-  if (!wordList) return null;
+const rawText = fs.readFileSync(sourcePath, 'utf-8');
+const questions = parseQuestions(rawText);
 
-  // Type 1: Question is the term (English), Options are definitions (Chinese)
-  // Check if question is in word list
-  const wordEntry = wordList.find(w => w.term.toLowerCase() === q.question.toLowerCase());
-  if (wordEntry) {
-      // Find option that contains the definition
-      for (const [key, val] of Object.entries(q.options)) {
-          // Check for significant overlap or inclusion
-          // Simple inclusion check
-          if (val.includes(wordEntry.definition) || wordEntry.definition.includes(val)) {
-              return key;
-          }
-          // Fuzzy check: split definition by ； and check parts
-          const defParts = wordEntry.definition.split(/[；;]/);
-          for(const part of defParts) {
-              if (val.includes(part.trim())) return key;
-          }
-      }
-  }
+fs.writeFileSync(outputPath, `${JSON.stringify(questions, null, '\t')}\n`);
 
-  // Type 2: Question is Chinese definition, Options are English words
-  // Check if any option is in the word list AND matches the question definition
-  // Actually, simpler: Check if any option matches a term in the wordlist, and that term's definition matches question
-  // But question might be vague.
+const summary = questions.reduce((acc, question) => {
+  const key = `${question.unitId} ${question.section}`;
+  acc[key] = (acc[key] ?? 0) + 1;
+  return acc;
+}, {});
 
-  // Type 3: Sentence completion.
-  // One of the options should be in the wordList.
-  // Exception: Sometimes distractors are from other units?
-  // Let's assume the correct answer MUST be in the current unit's word list.
-
-  let validOptionKeys = [];
-  for (const [key, val] of Object.entries(q.options)) {
-      const optionWord = val.trim();
-      const match = wordList.find(w => w.term.toLowerCase() === optionWord.toLowerCase() || optionWord.toLowerCase().includes(w.term.toLowerCase())); // Includes for phrases like "add up to"
-      if (match) {
-          validOptionKeys.push(key);
-      }
-  }
-
-  if (validOptionKeys.length === 1) {
-      return validOptionKeys[0];
-  } else if (validOptionKeys.length > 1) {
-      // Multiple options are in the vocabulary list.
-      // We need to look at context (sentence). Too hard for simple script.
-      // Fallback: If one option exactly matches a term in this specific section/unit, prefer it.
-      // But they are all in the list.
-      // Let's just log it and maybe leave it null or pick the first one?
-      // Actually, if we look at "Unit 1 Test", Q1 options: alter, adapt, assess, admire.
-      // assess is in Unit 1 Test list. alter/adapt/admire are not. So validOptionKeys should have length 1.
-      return validOptionKeys[0]; // Best guess
-  }
-
-  // Case: Question is Chinese (e.g. "指南针；罗盘"), Options are words.
-  // Check if question matches a definition in wordlist
-  const defMatch = wordList.find(w => q.question.includes(w.definition) || w.definition.includes(q.question));
-  if (defMatch) {
-      // Find option that matches term
-       for (const [key, val] of Object.entries(q.options)) {
-           if (val.trim().toLowerCase() === defMatch.term.toLowerCase()) return key;
-       }
-  }
-
-  return null;
-}
-
-const parsed = parseQuestions(rawText);
-const processed = parsed.map(q => {
-    const answer = solveQuestion(q);
-    return { ...q, answer };
+console.log(`Generated ${questions.length} questions to ${outputPath}`);
+Object.entries(summary).forEach(([key, count]) => {
+  console.log(`${key}: ${count}`);
 });
-
-const outputPath = path.join(__dirname, '../src/lib/questions.json');
-fs.writeFileSync(outputPath, JSON.stringify(processed, null, 2));
-
-console.log(`Generated ${processed.length} questions to ${outputPath}`);
-console.log(`Solved ${processed.filter(q => q.answer).length} answers.`);

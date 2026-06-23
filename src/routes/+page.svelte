@@ -25,8 +25,8 @@
 
 <div class="container mx-auto px-4 py-8 max-w-md">
   <header class="mb-8 text-center">
-    <h1 class="text-3xl font-bold text-gray-800 mb-2">英语A3单词速通</h1>
-    <p class="text-gray-600">U校园Quiz + Test (15x2=30)</p>
+    <h1 class="text-3xl font-bold text-gray-800 mb-2">英语A4考试速通</h1>
+    <p class="text-gray-600">U校园 Quiz + Test (15x2=30)</p>
   </header>
 
   <div class="space-y-4">
@@ -101,7 +101,7 @@
 
   <footer class="mt-12 text-center border-t border-gray-100 pt-8">
     <a
-      href="https://dogxi.me/zh"
+      href="https://dogxi.me"
       target="_blank"
       rel="noopener noreferrer"
       class="inline-flex items-center gap-2 text-gray-400 hover:text-blue-500 transition-colors text-sm font-medium px-4 py-2 rounded-full hover:bg-gray-50"
